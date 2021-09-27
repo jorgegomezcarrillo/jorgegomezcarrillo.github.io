@@ -4,13 +4,7 @@ title: Sobre mí
 subtitle: Conoce un poco más sobre mí
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+¡Hola! Mi nombre es Jorge Gómez. Soy estudiante del Ciclo Superior en Desarrollo de Aplicaciones Web en el [IES José Planes](http://www.iesjoseplanes.es/). Este blog forma parte de la asignatura *Diseño de Interfaces Web* impartido por Susana Valverde para el curso 2021 - 2022.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Este blog está creado usando **Jekyll**, un generador de páginas estático y alojado en GitHub Pages. Está formula permite crear blogs y webs que estarán operativos en muy poco tiempo. Con este proyecto espero aprender los fundamentos del diseño web, así como mejorar aquellos conceptos que no he asimilado del todo durante el tiempo que llevo desarrollando.
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
