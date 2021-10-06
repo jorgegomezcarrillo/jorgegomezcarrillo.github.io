@@ -25,15 +25,16 @@ Finalmente, el último día de clase se nos propuso la tarea de reflexionar sobr
 Se trata de un *diseñador gráfico americano* que ha destacado fundamentalmente por sus innovadoras propuestas en el campo de las revistas (magazines) así como el uso experimental de la tipografía. Su [historia](https://en.wikipedia.org/wiki/David_Carson_(graphic_designer)) es bastante interesante, pues también ha trabajado como director.
 
 **¿Puedes poner alguna obra suya?**<br>
-Me ha llamado la atención [este proyecto](https://albumsurf.com/pages/david-carson-album-surf) enfocado al mundo del *surf* (del que también es fanático). Creo que se aprecia cómo combina las formas con la tipografía para conseguir un diseño solo apto para los mejores bolsillos (las tablas rondan los 3.000 dólares).
+Me ha llamado la atención [este proyecto](https://albumsurf.com/pages/david-carson-album-surf) enfocado al mundo del *surf* (del que también es fanático). Creo que se aprecia cómo combina las formas con la tipografía para conseguir un diseño solo apto para los mejores bolsillos (las tablas rondan los 3.000 dólares). Está claro por qué lo llaman un *"transgresor"*.
 
 **¿Quién es Kevin Marks? ¿A qué se dedica?**<br>
-Se trata de un *desarrollador de software y activista británico*. Su historia pasa por haber trabajado en [Google](https://en.wikipedia.org/wiki/Kevin_Marks), ha realizado diversos programas tipo *podcast* y ha recibido premios por su [blog](http://epeus.blogspot.com/). Su información en Wikipedia es bastante escueta y su LinkedIn aparece privado, pero parece ser que trabaja en una empresa llamada *XCentium*.
+Se trata de un *desarrollador de software y activista británico*. Su historia pasa por haber trabajado en [Google](https://en.wikipedia.org/wiki/Kevin_Marks), ha realizado diversos programas tipo *podcast* y ha recibido premios por su [blog](http://epeus.blogspot.com/). Su información en Wikipedia es bastante escueta y su LinkedIn aparece privado, pero parece ser que trabaja en una empresa llamada *XCentium*, una consultora digital.
 
 **¿Podrías encontrar un ejemplo de página con los problemas que menciona el artículo?**<br>
-Para mi un ejemplo claro es [esta web](https://arngren.net/) sobre venta de coches. He tenido que acceder a ella ya que previamente al ciclo realicé un curso del *SEF* sobre desarrollo de aplicaciones web y vimos varios ejemplos de este tipo.
+Para mi un ejemplo claro es [esta web](https://arngren.net/) sobre venta de coches. He tenido que acceder a ella ya que previamente al ciclo realicé un curso del *SEF* sobre desarrollo de aplicaciones web y vimos varios ejemplos de este tipo. En esta web se aprecia claramente lo que comenta el artículo: elementos transgresores (más o menos estéticos, dependiendo de la opinión de cada uno) que llaman la atención pero que dificultan totalmente la usabilidad de la web. Se hace muy complicado moverse entre secciones así como saber cuál es el orden lógico entre elementos (¡la vista se vuelve loca!).
 
 **¿A quién echan la culpa del problema?**<br>
+A las grandes compañías como *Twitter, Facebook y Apple*, pues recomiendan guías de estilo que al final terminan siguiendo el resto de desarrolladores. Al final este trío de grandes recomiendan una serie de sugerencias pero, a la postre, ellos terminan realizando lo opuesto.
 
 **Averigua una forma de poner el nivel de contraste entre texto y fondo no inferior a 7:1.7.**<br>
 
