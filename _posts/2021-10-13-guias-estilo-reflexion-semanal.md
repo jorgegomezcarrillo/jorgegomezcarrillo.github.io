@@ -17,3 +17,13 @@ En mi opinión, este tipo de guías se suelen usar más en organismos oficiales 
 - Maquetación básica
 
 ![Ejemplo de guía de estilo](/assets/img/style.jpg){: .mx-auto.d-block :}
+
+Como se puede ver en la imagen superior, esta web define todo lo relativo a lo visual, ya sean márgenes, colores, tipografía o disposición de los elementos. Esto es algo que hacemos instintivamente cuando desarrollamos con **CSS**, pues podemos establecer unas variables generales para todo el documento y, casi sin quererlo, estamos diseñando una *guía de estilo*. Evidentemente lo hacemos sin mucho conocimiento y salvando las distancias como, por ejemplo, de [este caso de la Universidad de Málaga](https://www.uma.es/media/files/GUIA_WEB.pdf) visto en clase.
+
+Se ha visto también de una manera sucinta el concepto de **Arquitectura de la información**, un [concepto que desconocía](https://www.uifrommars.com/arquitectura-de-la-informacion/) pero que ahora pienso tener en cuenta en mis desarrollos, aunque sea de una manera amateur. Como reza la web anterior:
+
+> *En pocas palabras, la arquitectura de la información es el arte de organizar la información de la forma más clara y lógica posible.*
+
+Al final, las páginas webs actuales se han convertido en monstruos de información, estamos totalmente [infoxicados](https://www.webempresa.com/blog/que-es-infoxicacion.html), constantemente nos bombardean con información y, en muchos casos, este exceso de la misma hace que sea dificil moverse entre ella. A esto se le suma el auge de **páginas webs nicho**, que buscan el venderte productos a cambio de una comisión (usan técnicas de SEO avanzadas). Por tanto, una *distribución lógica de la información* hace que la experiencia de usuario sea superior.
+
+
