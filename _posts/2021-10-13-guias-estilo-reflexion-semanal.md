@@ -26,4 +26,4 @@ Se ha visto también de una manera sucinta el concepto de **Arquitectura de la i
 
 Al final, las páginas webs actuales se han convertido en monstruos de información, estamos totalmente [infoxicados](https://www.webempresa.com/blog/que-es-infoxicacion.html), constantemente nos bombardean con información y, en muchos casos, este exceso de la misma hace que sea dificil moverse entre ella. A esto se le suma el auge de **páginas webs nicho**, que buscan el venderte productos a cambio de una comisión (usan técnicas de SEO avanzadas). Por tanto, una *distribución lógica de la información* hace que la experiencia de usuario sea superior.
 
-
+Como siempre, una clase muy interesante en la que he vuelto a aprender *nuevos conceptos*. Poco a poco me voy interesando más por el diseño y voy teniéndolo más en cuenta cuando voy desarrollando los ejercicios que se nos plantean en otras asignaturas del ciclo. No obstante, y sin que suponga menos puntos en mi nota ;), creo que me sigo decantando más por el **código puro**, aunque no le cierro puertas a nada.
