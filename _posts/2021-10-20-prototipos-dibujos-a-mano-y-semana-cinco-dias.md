@@ -40,6 +40,8 @@ Como punto y final a la semana, me gustaría abordar las **ventajas e inconvenie
 
 Aun así, personalmente me resulta **más satisfactorio dibujar a ordenador** (y no solo por haber estudiado Arquitectura Técnica) sino porque creo que nos abstrae de elementos ajenos (bolígrafo, papel, capacidad de dibujo). Gracias al software tenemos la posibilidad de crear ejemplos más cercanos a la realidad, usando componentes ya creados y probando paletas de colores que en papel resultaría casi imposible.
 
+![Ventajas de usar Figma](/assets/img/advan.jpg){: .mx-auto.d-block :}
+
 A mi modo de ver, los programadores tenemos que estar hechos **de otra pasta**, pues constantemente aparecen nuevos programas o lenguajes de programación que debemos aprender si queremos estar al día. El tener que aprender Figma, Photoshop o cualquier otro software **no debe de echarnos para atrás**, pues contamos con un exceso de información para poder buscar cursos, videos o tutoriales y empezar a dar nuestros primeros pasos en ese programa casi sin darnos cuenta.
 
 La desventaja fundamental del software es, por tanto, que **requiere de un aprendizaje previo** pero en mi caso, al menos, esto no supone un gran inconveniente.
