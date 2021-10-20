@@ -28,4 +28,24 @@ No obstante, disfruté mucho más sobre el diseño en **Figma**. Este software n
 
 ![Prototipo en Figma](/assets/img/diabola.JPG){: .mx-auto.d-block :}
 
-Para la última clase, nos centramos en el concepto de 
+Para la última clase, nos centramos en el concepto de **Interacción Persona Ordenador**, conocido también por las siglas *IPO*. Esta disciplina afecta tanto en la etapa de diseño e implementación como en la de evaluación. Se podría definir como aquello que está esperando que el usuario haga algo, pretendiendo estudiar los sistemas informáticos y las personas, así como su interacción. En general, esto es útil ya que permite mejorar la *seguridad, la utilidad, la efectividad, la eficiencia y la usabilidad*.
+
+> *La Interacción persona-ordenador es la disciplina relacionada con el diseño, evaluación y implementación de sistemas informáticos interactivos para el uso de seres humanos, y con el estudio de los fenómenos más importantes con los que está relacionado* - ACM, Association for Computer Machinery.
+
+La parte final de la clase (la última de la semana), estuvo enfocada en estudiar el concepto de **interfaz** (superficie de contacto entre dos entidades) y su peso en el desarrollo. Susana nos comentó que cerca del 70% del trabajo en el proyecto se lo lleva la interfaz, algo que si pretendemos ser desarrolladores **front-end** tenemos que tener claro.
+
+## Sketching  vs Figma
+
+Como punto y final a la semana, me gustaría abordar las **ventajas e inconvenientes** entre estos dos sistemas. Creo que el dibujo a papel es algo que siempre vamos a tener a nuestro alcance, la posibilidad de plasmar nuestras ideas con un trazo hace que dibujar se convierta en una *forma muy rápida de comunicación*. Además permite expresarse mejor, sin necesidad de tener que aprender los conceptos de un software (todos llevamos ya de serie la capacidad de escribir/dibujar, o eso se supone).
+
+Aun así, personalmente me resulta **más satisfactorio dibujar a ordenador** (y no solo por haber estudiado Arquitectura Técnica) sino porque creo que nos abstrae de elementos ajenos (bolígrafo, papel, capacidad de dibujo). Gracias al software tenemos la posibilidad de crear ejemplos más cercanos a la realidad, usando componentes ya creados y probando paletas de colores que en papel resultaría casi imposible.
+
+A mi modo de ver, los programadores tenemos que estar hechos **de otra pasta**, pues constantemente aparecen nuevos programas o lenguajes de programación que debemos aprender si queremos estar al día. El tener que aprender Figma, Photoshop o cualquier otro software **no debe de echarnos para atrás**, pues contamos con un exceso de información para poder buscar cursos, videos o tutoriales y empezar a dar nuestros primeros pasos en ese programa casi sin darnos cuenta.
+
+La desventaja fundamental del software es, por tanto, que **requiere de un aprendizaje previo** pero en mi caso, al menos, esto no supone un gran inconveniente.
+
+## Un repaso al resto de asignaturas
+
+Algo que me gustaría incluir en estas entradas es unos **comentarios generales** sobre lo aprendido en el resto de asignaturas del ciclo. En general, estoy aprendiendo mucho del resto de materias aunque especialmente en la parte de **Javascript**. Me gusta mucho como ha planteado Luismi la asignatura: *a base de proyectos* y dejándonos a nosotros tiempo para poder resolver los ejercicios en clase. Además, ha introducido conceptos básicos de Git (en mi caso ya conocía algo al respecto) y nos plantea retos que luego tienen su transposición en la vida laboral.
+
+Hoy se ve que tenía bastantes ganas de escribir, pues llevo ya unos cuantos **cientos de palabras**. De momento vamos a dejarlo por esta semana, ya que tampoco quiero agobiarte Susana ;). Vamos a por la siguiente semana!
