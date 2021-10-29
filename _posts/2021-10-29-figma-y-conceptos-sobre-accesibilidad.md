@@ -41,11 +41,11 @@ En este punto se produjo una charla bastante interesante sobre la accesibilidad,
 
 ### Normativa en materia de accesibilidad
 
-Uno de los puntos más conflictivos sobre este asunto es el relativo a la *normativa aplicable*. Hablamos sobre el Consorcio W3C capitaneado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee), el padre de la web. Este conglomerado de empresas desarrolla normas, estándares web y pautas pero no vela porque se cumplan, **ofrece recomendaciones**. Dentro de esta organización existe el *WAI (Web Accessibility Initiative)*, cuyo objetivo podría resumirse en:
+Uno de los puntos más conflictivos sobre este asunto es el relativo a la *normativa aplicable*. Hablamos sobre el *Consorcio W3C* capitaneado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee), el padre de la web. Este conglomerado de empresas desarrolla normas, estándares web y pautas pero no vela porque se cumplan, **ofrece recomendaciones**. Dentro de esta organización existe el *WAI (Web Accessibility Initiative)*, cuyo objetivo podría resumirse en:
 
 > *Facilitar el acceso de las personas con discapacidad, desarrollando pautas de accesibilidad, mejorando las herramientas para la evaluación y reparación de accesibilidad Web*
 
-Todo esto confluye en una serie de pautas a seguir, las conocidas como las **PAUTAS WCAG**. Estas se basan en cuatro principios y dentro de ellos pautas (doce en total), dentro de ellas se encuentran los diferentes criterios de conformidad clasificados en tres niveles (A, AA, AAA) siendo el último el más restrictivo. Estos cuatro principios son:
+Todo esto confluye en una serie de pautas a seguir, las conocidas como las **PAUTAS WCAG**. Estas se basan en cuatro principios y dentro de ellos pautas (doce en total). Dentro de ellas se encuentran los diferentes criterios de conformidad clasificados en tres niveles (A, AA, AAA) siendo el último el más restrictivo. Estos cuatro principios son:
 
 1. Perceptible
 2. Operable
@@ -53,3 +53,9 @@ Todo esto confluye en una serie de pautas a seguir, las conocidas como las **PAU
 4. Robusto
 
 Pudimos comprobar en clase como estas pautas resuntan un poco *confusas en su comprensión*, pues están redactadas en un vocabulario que es poco conocido para el usuario medio. Por suerte, disponen tanto de una versión en inglés como en español.
+
+## Todo esto, ¿cómo se aplica?
+
+Como digo, conocía **algunos de los métodos para hacer las webs más accesibles**: atributos alt en las imágenes, tabIndex en HTML para marcarle el recorrido a los lectores de pantalla, etc., pero gracias a esto me ha picado la curiosidad y he investigado un poco sobre el asunto. En inglés, a la accesibilidad web se la conoce como **a11y** (el 11 corresponde a la cantidad de letras que existen entre la *a* y la *y*. Encontré [esta web](https://www.a11yproject.com/) donde, por medio de una lista de chequeo, se puede ver si cumplimos con los criterios de accesibilidad para cada elemento HTML: formularios, botones, encabezados o contrastes, entre otros (ver imagen inferior).
+
+![A11y](/assets/img/table.JPG){: .mx-auto.d-block :}
