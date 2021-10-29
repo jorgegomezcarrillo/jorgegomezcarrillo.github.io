@@ -33,4 +33,23 @@ En la última clase de la semana realizamos una introducción a los conceptos b�
 
 > *Accesibilidad web: acceso universal a la Web, independientemente del tipo de hardware, software, infraestructura de red, idioma, cultura, localización geográfica y capacidades de los usuarios.*
 
+> *Usabilidad web: facilidad de uso, que los usuarios no requieran conocimientos específicos para la utilización. Sistemas de ayuda.*
+
 En este punto se produjo una charla bastante interesante sobre la accesibilidad, por medio de ejemplos tanto de un alumno del centro que usaba un **lector de pantallas**, como de un video sobre la accesibilidad de la web de *Renfe*. He de decir que conocía estos casos, pues (como he comentado en anteriores entradas) realicé hace unos años un curso del SEF *sobre desarrollo web* donde tratamos este tema.
+
+![Accesibilidad en Renfe](/assets/img/renfe.jpg){: .mx-auto.d-block :}
+
+### Normativa en materia de accesibilidad
+
+Uno de los puntos más conflictivos sobre este asunto es el relativo a la *normativa aplicable*. Hablamos sobre el Consorcio W3C capitaneado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee), el padre de la web. Este conglomerado de empresas desarrolla normas, estándares web y pautas pero no vela porque se cumplan, **ofrece recomendaciones**. Dentro de esta organización existe el *WAI (Web Accessibility Initiative)*, cuyo objetivo podría resumirse en:
+
+> *Facilitar el acceso de las personas con discapacidad, desarrollando pautas de accesibilidad, mejorando las herramientas para la evaluación y reparación de accesibilidad Web*
+
+Todo esto confluye en una serie de pautas a seguir, las conocidas como las **PAUTAS WCAG**. Estas se basan en cuatro principios y dentro de ellos pautas (doce en total), dentro de ellas se encuentran los diferentes criterios de conformidad clasificados en tres niveles (A, AA, AAA) siendo el último el más restrictivo. Estos cuatro principios son:
+
+1. Perceptible
+2. Operable
+3. Comprensible
+4. Robusto
+
+Pudimos comprobar en clase como estas pautas resuntan un poco *confusas en su comprensión*, pues están redactadas en un vocabulario que es poco conocido para el usuario medio. Por suerte, disponen tanto de una versión en inglés como en español.
