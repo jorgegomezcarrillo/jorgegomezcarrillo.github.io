@@ -20,3 +20,5 @@ Visto esto, el resto de clase lo dedicamos a **terminar el trabajo** sobre nuest
 ![Ejemplo de prototipo en Figma](/assets/img/pizz.JPG){: .mx-auto.d-block :}
 
 En la imagen superior se pueden ver algunas capturas de nuestro proyecto, en concreto de la versión móvil. Nos resultó muy útil todo lo aprendido anteriormente, sobre todo el apartado de **reutilización de componentes**, ya que fue algo que aplicamos constantemente para poder cambiar los estilos de un elemento sin tener que ir uno por uno. También creamos **estilos personalizados** (Primary / Secondary / Light ) para aplicárselo a los distintos elementos de la web y tener clara cuál es nuestra paleta de colores.
+
+En este punto también incluimos los comentarios que nos hicieron nuestros compañeros. En nuestro caso lo que más se repetía es que usábamos **demasiado espacio en blanco** algo que, si bien era intencionado por nuestra parte para darle ese toque de claridad y limpieza
