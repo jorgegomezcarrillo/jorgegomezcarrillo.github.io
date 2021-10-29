@@ -26,3 +26,11 @@ En este punto también incluimos los comentarios que nos hicieron nuestros compa
 ## Qué me ha parecido este ejercicio
 
 Como **conclusion**, de todas las prácticas esta es de las que más me ha gustado. Conocía Figma pero nunca me había puesto con él y es algo que hubiera seguido posponiendo de no ser por este ejercicio. Este software tiene más posibilidades de las que creía y lo que más me sorprende es la cantidad de cosas que se pueden hacer *con la versión gratuita*. Entiendo ahora porque las empresas usan este recurso para sus proyectos, ya que incluso permite visualizar un prototipo del proyecto en una especie de *mockup* interactivo, sobre el que puedes desplazarte simulando el movimiento que haríamos en un móvil físico
+
+## Nociones básicas sobre accesibilidad
+
+En la última clase de la semana realizamos una introducción a los conceptos básicos de la **accesibilidad**. Hicimos un repaso sobre el estandar actual para definir estos principios así como las definiciones básicas tanto de *usabilidad como de accesibilidad*. Podemos definir esta última como:
+
+> *Accesibilidad web: acceso universal a la Web, independientemente del tipo de hardware, software, infraestructura de red, idioma, cultura, localización geográfica y capacidades de los usuarios.*
+
+En este punto se produjo una charla bastante interesante sobre la accesibilidad, por medio de ejemplos tanto de un alumno del centro que usaba un **lector de pantallas**, como de un video sobre la accesibilidad de la web de *Renfe*. He de decir que conocía estos casos, pues (como he comentado en anteriores entradas) realicé hace unos años un curso del SEF *sobre desarrollo web* donde tratamos este tema.
