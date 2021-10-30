@@ -13,9 +13,9 @@ Un punto interesante de esta clase es que vimos la instalación de **plugins** c
 
 ![Ejemplo de prototipado web](/assets/img/prot.png){: .mx-auto.d-block :}
 
-La siguiente clase la dedicamos a trabajar en profundidad con el programa. Realizamos un ejercicio muy interesante en donde tuvimos que realizar comentarios sobre los ejercicios de los prototipos realizados la semana anterior ([Ver entrada en el Blog](https://jorgegomezcarrillo.github.io/2021-10-20-prototipos-dibujos-a-mano-y-semana-cinco-dias/)) por otros compañeros. De esta manera les aportabamos críticas constructivas sobre sus trabajos, a la vez que recibiamos lo mismo por su parte. Lo bueno de Figma es que permite agregar colaboradores que solo puedan *ver y no editar* el trabajo, lo que hace que el flujo de trabajo para enseñar a otras personas el proyecto sea muy cómodo.
+La siguiente clase la dedicamos a trabajar en profundidad con el programa. Realizamos un ejercicio muy interesante en donde tuvimos que realizar comentarios sobre los ejercicios de los prototipos realizados la semana anterior ([Ver entrada en el Blog](https://jorgegomezcarrillo.github.io/2021-10-20-prototipos-dibujos-a-mano-y-semana-cinco-dias/)) por otros compañeros. De esta manera les aportábamos críticas constructivas sobre sus trabajos, a la vez que recibíamos lo mismo por su parte. Lo bueno de Figma es que permite agregar colaboradores que solo puedan *ver y no editar* el trabajo, lo que hace que el flujo de trabajo para enseñar a otras personas el proyecto sea muy cómodo.
 
-Visto esto, el resto de clase lo dedicamos a **terminar el trabajo** sobre nuestro prototipo empezado la semana pasada. Para ello se nos pidió realizar tres prototipos: baja, media y alta fidelidad, añadiendo para ello lo que consideráramos oportuno. Nosotros (Cintia y yo) continuamos con el proyecto de la pizzería online. Realizamos la vista para cada prototipo, tanto móvil como web y **añadimos animaciones** para que al clickar en un botón te lleve a otra parte de la web. Esta parte nos resultó un poco confusa al principio, pero con un par de tutoriales y muchas pruebas conseguimos lo que queríamos.
+Visto esto, el resto de clase lo dedicamos a **terminar el trabajo** sobre nuestro prototipo empezado la semana pasada. Para ello se nos pidió realizar tres prototipos: baja, media y alta fidelidad, añadiendo para ello lo que consideráramos oportuno. Nosotros (Cintia y yo) continuamos con el proyecto de la pizzería online. Realizamos la vista para cada prototipo, tanto móvil como web y **añadimos animaciones** para que al clicar en un botón te lleve a otra parte de la web. Esta parte nos resultó un poco confusa al principio, pero con un par de tutoriales y muchas pruebas conseguimos lo que queríamos.
 
 ![Ejemplo de prototipo en Figma](/assets/img/pizz.JPG){: .mx-auto.d-block :}
 
@@ -25,11 +25,11 @@ En este punto también incluimos los comentarios que nos hicieron nuestros compa
 
 ## Qué me ha parecido este ejercicio
 
-Como **conclusion**, de todas las prácticas esta es de las que más me ha gustado. Conocía Figma pero nunca me había puesto con él y es algo que hubiera seguido posponiendo de no ser por este ejercicio. Este software tiene más posibilidades de las que creía y lo que más me sorprende es la cantidad de cosas que se pueden hacer *con la versión gratuita*. Entiendo ahora porque las empresas usan este recurso para sus proyectos, ya que incluso permite visualizar un prototipo del proyecto en una especie de *mockup* interactivo, sobre el que puedes desplazarte simulando el movimiento que haríamos en un móvil físico
+Como **conclusión**, de todas las prácticas esta es de las que más me ha gustado. Conocía Figma pero nunca me había puesto con él y es algo que hubiera seguido posponiendo de no ser por este ejercicio. Este software tiene más posibilidades de las que creía y lo que más me sorprende es la cantidad de cosas que se pueden hacer *con la versión gratuita*. Entiendo ahora porque las empresas usan este recurso para sus proyectos, ya que incluso permite visualizar un prototipo del proyecto en una especie de *mockup* interactivo, sobre el que puedes desplazarte simulando el movimiento que haríamos en un móvil físico
 
 ## Nociones básicas sobre accesibilidad
 
-En la última clase de la semana realizamos una introducción a los conceptos básicos de la **accesibilidad**. Hicimos un repaso sobre el estandar actual para definir estos principios así como las definiciones básicas tanto de *usabilidad como de accesibilidad*. Podemos definir esta última como:
+En la última clase de la semana realizamos una introducción a los conceptos básicos de la **accesibilidad**. Hicimos un repaso sobre el estándar actual para definir estos principios, así como las definiciones básicas tanto de *usabilidad como de accesibilidad*. Podemos definir esta última como:
 
 > *Accesibilidad web: acceso universal a la Web, independientemente del tipo de hardware, software, infraestructura de red, idioma, cultura, localización geográfica y capacidades de los usuarios.*
 
@@ -41,7 +41,7 @@ En este punto se produjo una charla bastante interesante sobre la accesibilidad,
 
 ### Normativa en materia de accesibilidad
 
-Uno de los puntos más conflictivos sobre este asunto es el relativo a la *normativa aplicable*. Hablamos sobre el *Consorcio W3C* capitaneado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee), el padre de la web. Este conglomerado de empresas desarrolla normas, estándares web y pautas pero no vela porque se cumplan, **ofrece recomendaciones**. Dentro de esta organización existe el *WAI (Web Accessibility Initiative)*, cuyo objetivo podría resumirse en:
+Uno de los puntos más conflictivos sobre este asunto es el relativo a la *normativa aplicable*. Hablamos sobre el *Consorcio W3C* capitaneado por [Tim Berners-Lee](https://es.wikipedia.org/wiki/Tim_Berners-Lee), el padre de la web. Este conglomerado de empresas desarrolla normas, estándares web y pautas, pero no vela porque se cumplan, **ofrece recomendaciones**. Dentro de esta organización existe el *WAI (Web Accessibility Initiative)*, cuyo objetivo podría resumirse en:
 
 > *Facilitar el acceso de las personas con discapacidad, desarrollando pautas de accesibilidad, mejorando las herramientas para la evaluación y reparación de accesibilidad Web*
 
@@ -52,7 +52,7 @@ Todo esto confluye en una serie de pautas a seguir, las conocidas como las **PAU
 3. Comprensible
 4. Robusto
 
-Pudimos comprobar en clase como estas pautas resuntan un poco *confusas en su comprensión*, pues están redactadas en un vocabulario que es poco conocido para el usuario medio. Por suerte, disponen tanto de una versión en inglés como en español.
+Pudimos comprobar en clase como estas pautas resultan un poco *confusas en su comprensión*, pues están redactadas en un vocabulario que es poco conocido para el usuario medio. Por suerte, disponen tanto de una versión en inglés como en español.
 
 ## Todo esto, ¿cómo se aplica?
 
@@ -64,4 +64,4 @@ Otra buena web sobre la que **documentarse** es la de [Mozilla MDN](https://deve
 
 ![Texto en enlaces](/assets/img/glink.JPG){: .mx-auto.d-block :}
 
-En líneas generales, lo aprendido este semana ha sido muy interesante. Aunque conocía estos conceptos sé que es algo que me falta por aplicar en mis proyectos y es un apartado al que *no le dedico* apenas tiempo en mis desarrollos. En el curso del SEF si que he aplicado estos conceptos y he usado **validadores** (algunos de ellos dan bastantes dolores de cabeza) así como sintaxis semántica en HTML para adaptar la web. Con esto he podido comprobar de primera mano lo complicado que puede resultar el desarrollo si le añadimos esta *nueva capa* (sobre todo en aumento del tiempo). No obstante, creo que es algo que ocurre debido a que no estamos familiarizados con esta forma de trabajar y quizá debamos hacer un **a11y first**, una especie de *mobile first*, para diseñar nuestras webs de manera accesible en primera instancia.
+En líneas generales, lo aprendido esta semana ha sido muy interesante. Aunque conocía estos conceptos sé que es algo que me falta por aplicar en mis proyectos y es un apartado al que *no le dedico* apenas tiempo en mis desarrollos. En el curso del SEF si que he aplicado estos conceptos y he usado **validadores** (algunos de ellos dan bastantes dolores de cabeza) así como sintaxis semántica en HTML para adaptar la web. Con esto he podido comprobar de primera mano lo complicado que puede resultar el desarrollo si le añadimos esta *nueva capa* (sobre todo en aumento del tiempo). No obstante, creo que es algo que ocurre debido a que no estamos familiarizados con esta forma de trabajar y quizá debamos hacer un **a11y first**, una especie de *mobile first*, para diseñar nuestras webs de manera accesible en primera instancia.
