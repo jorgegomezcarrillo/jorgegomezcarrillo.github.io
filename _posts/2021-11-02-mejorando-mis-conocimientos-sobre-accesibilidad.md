@@ -37,4 +37,4 @@ La parte más divertida de la clase fue la realización de un nuevo **Kahoot**, 
 
 ![Ejemplo de portfolio](/assets/img/port.JPG){: .mx-auto.d-block :}
 
-Este ha sido uno de los ejercicios que me han resultado más motivante, pues nos obliga a enlazar *conceptos aprendidos en distintas asignaturas*, además de que es algo que nos sirve de cara al futuro. La semana que viene realizaremos un intercambio con una profesora **de dibujo**, algo que espero con ganas pues seguro aprenderé algo nuevo. 
+De todos los ejercicios realizados hasta la fecha este es el que me ha resultado **más motivador**, pues nos obliga a enlazar *conceptos aprendidos en distintas asignaturas*, además de que es algo que nos sirve de cara al futuro. La semana que viene realizaremos un intercambio con una profesora **de dibujo**, algo que espero con ganas pues seguro aprenderé algo nuevo. 
