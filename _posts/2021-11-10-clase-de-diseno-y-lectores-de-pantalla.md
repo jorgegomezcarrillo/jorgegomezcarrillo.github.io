@@ -46,7 +46,7 @@ Los compañeros también propusieron herramientas muy interesantes que me sirvie
 
 La última clase de la semana, y con la que cerramos el capítulo sobre **accesibilidad**, la centramos en realizar [test en W3School](https://www.w3schools.com/accessibility/index.php) sobre accesibilidad. Los resultados que conseguí se pueden ver en la imagen inferior.
 
-![Test W3Schools](/assets/img/quizz.JPG){: .mx-auto.d-block :}
+![Test W3Schools](/assets/img/qtest.JPG){: .mx-auto.d-block :}
 
 La verdad es que saqué en claro varias conclusiones a tener en cuenta, sobre todo en lo relativo a **etiquetas propias de HTML5** específicas para accesibilidad, algunas ya las conocía de otros cursos que he realizado en el pasado, pero las más importantes se pueden resumir en:
 
