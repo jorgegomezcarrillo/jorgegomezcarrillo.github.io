@@ -13,12 +13,16 @@ Algo muy importante, y que no había tenido en cuenta, era saber enfocar mi web 
 
 La tabla inferior muestra un resumen de en qué aspectos enfocarse según nuestro **público objetivo**. Tratamos también temas relativos a la **jerarquía, el contraste o la ley de tercios**, llegando a la conclusión de que es mejor usar *formas grandes* para lo importante y pequeñas para los mensajes secundarios. En resumen, me resultó una charla muy **instructiva** en donde Mairo me transmitió muchas mejoras para incluirle a mi portfolio.
 
+<div align="center">
+  
 | EMPRESA SERIA | EMPRESA JUVENIL |
 |---|---|
 | Imagen de seriedad | Dinámica |
 | Profesional | Creativa |
 | Claridad | Atrevida |
 | Seguridad | Juvenil |
+  
+ </div>
 
 Aunque por *cuestiones de tiempo* no dió tiempo a que se revisara mi trabajo, Susana si que pudo echarle un ojo a mi portfolio y me propuso algunas mejoras interesantes. En concreto mejorar la tipografía y añadir un color a los encabezados de la parte de *la barra lateral*. He intentado usar una paleta de colores lo más clara posible, incluyendo un toque de color verde para destacar ciertos elementos. En cuanto a la tipografía, he usado [Roboto](https://fonts.google.com/specimen/Roboto) en combinación con la cursiva y la negrita según la parte que quiera o no destacar.
 
