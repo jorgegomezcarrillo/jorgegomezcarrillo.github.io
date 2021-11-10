@@ -18,7 +18,7 @@ La tabla inferior muestra un resumen de en qué aspectos enfocarse según nuestr
 | Imagen de seriedad | Dinámica |
 | Profesional | Creativa |
 | Claridad | Atrevida |
-| Seguridad | Juvenil |{: .mx-auto.d-block :}
+| Seguridad | Juvenil |
  
 Aunque por *cuestiones de tiempo* no dió tiempo a que se revisara mi trabajo, Susana si que pudo echarle un ojo a mi portfolio y me propuso algunas mejoras interesantes. En concreto mejorar la tipografía y añadir un color a los encabezados de la parte de *la barra lateral*. He intentado usar una paleta de colores lo más clara posible, incluyendo un toque de color verde para destacar ciertos elementos. En cuanto a la tipografía, he usado [Roboto](https://fonts.google.com/specimen/Roboto) en combinación con la cursiva y la negrita según la parte que quiera o no destacar.
 
