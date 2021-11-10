@@ -25,3 +25,5 @@ Aunque por *cuestiones de tiempo* no dió tiempo a que se revisara mi trabajo, S
 ![Detalle de portfolio](/assets/img/portf2.JPG){: .mx-auto.d-block :}
 
 En cuanto al contenido, he querido destacar **los proyectos**, tanto personales como laborales, pues considero que un reclutador es lo que querría ver de un desarrollador web: qué herramientas usa, qué lenguajes y las aplicaciones que ha desarrollado. Esto lo acompaño con una **pequeña descripción** del mismo, donde cuento cómo lo he hecho, los problemas que me han surgido y aquellos que he conseguido solucionar.
+
+Todo esto da como resultado (a mi parecer) un portfolio sencillo, que va al grano y que no intenta hacer perder el tiempo al reclutador, pues considero que con la cantidad de CV que reciben es muy dificil que alguien lea al 100% tu curriculum, y al final terminan haciendo una **lectura en diagonal** y de lo más importante de la web.
