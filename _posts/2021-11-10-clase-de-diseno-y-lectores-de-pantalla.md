@@ -57,4 +57,4 @@ La verdad es que saqué en claro varias conclusiones a tener en cuenta, sobre to
 - Usar los atributos de `value`.
 - Evitar usar la propiedad CSS `outline: 0` pues quita el foco de los elementos.
 
-
+Como resumen de la semana, creo que han sido unas clases muy interesantes, sobre todo la charla con Mairo. En general, me están sirviendo mucho las clases prácticas (he disfrutado haciendo el portfolio) e interiorizo mejor los conceptos cuando se trata de **tareas prácticas**. Además, puedo añadir conceptos de otras asignaturas, como **animaciones** de CSS o pequeños scripts de **javascript**. Todo esto da como resultado un ejercicio en el que aplico conceptos transversales de otras asignaturas.
