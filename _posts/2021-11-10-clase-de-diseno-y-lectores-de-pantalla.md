@@ -36,6 +36,16 @@ En esta clase también realizamos un ejercicio con una herramienta para testear 
 
 ![Detalle de la herramienta Wave](/assets/img/wherr.JPG){: .mx-auto.d-block :}
 
-En la imagen superior se puede ver cómo desglosa los resultados la herramnienta. Es muy intuitiva ya que permite acceder a cada elemento de la web desde el menu contextual de la izquierda. De esta manera, podemos situar en la página aquellos **elementos** que dan error, pudiendo ver su código así como un detalle de la propia descripción de la pauta del W3C que incumple, incluyendo consemos sobre cómo mejorarlo.
+En la imagen superior se puede ver cómo desglosa los resultados la herramnienta. Es muy intuitiva ya que permite acceder a cada elemento de la web desde el menu contextual de la izquierda. De esta manera, podemos situar en la página aquellos **elementos** que dan error, pudiendo ver su código así como un detalle de la propia descripción de la pauta del W3C que incumple, incluyendo consemos sobre cómo mejorarlo. 
 
-Los compañeros también propusieron herramientas muy interesantes que me sirvieron para *tenerlas en cuenta* para cuando audite mis propios proyectos.
+Los compañeros también propusieron herramientas muy interesantes que me sirvieron para *tenerlas en cuenta* para cuando audite mis propios proyectos. Las conclusiones del experimento se pueden resumir en las siguientes:
+
+- Es muy difícil cumplir todas las especificaciones.
+- Es necesario usar más de una herramienta para auditar una web.
+- Todas las webs, sin excepción, tienen fallos.
+
+La última clase de la semana, y con la que cerramos el capítulo sobre **accesibilidad**, la centramos en realizar [test en W3School](https://www.w3schools.com/accessibility/index.php) sobre accesibilidad. Los resultados que conseguí se pueden ver en la imagen inferior.
+
+![Concurso W3Schools](/assets/img/quizz.JPG){: .mx-auto.d-block :}
+
+La verdad es que saqué en claro varias conclusiones a tener en cuenta, sobre todo en lo relativo a **etiquetas propias de HTML5** específicas para accesibilidad.
