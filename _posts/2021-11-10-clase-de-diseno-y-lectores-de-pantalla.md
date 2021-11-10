@@ -20,13 +20,13 @@ La tabla inferior muestra un resumen de en qué aspectos enfocarse según nuestr
 | Claridad | Atrevida |
 | Seguridad | Juvenil |
  
-Aunque por *cuestiones de tiempo* no dió tiempo a que se revisara mi trabajo, Susana si que pudo echarle un ojo a mi portfolio y me propuso algunas mejoras interesantes. En concreto mejorar la tipografía y añadir un color a los encabezados de la parte de *la barra lateral*. He intentado usar una paleta de colores lo más clara posible, incluyendo un toque de color verde para destacar ciertos elementos. En cuanto a la tipografía, he usado [Roboto](https://fonts.google.com/specimen/Roboto) en combinación con la cursiva y la negrita según la parte que quiera o no destacar.
+Aunque por *cuestiones de tiempo* no dio tiempo a que se revisara mi trabajo, Susana si que pudo echarle un ojo a mi portfolio y me propuso algunas mejoras interesantes. En concreto mejorar la tipografía y añadir un color a los encabezados de la parte de *la barra lateral*. He intentado usar una paleta de colores lo más clara posible, incluyendo un toque de color verde para destacar ciertos elementos. En cuanto a la tipografía, he usado [Roboto](https://fonts.google.com/specimen/Roboto) en combinación con la cursiva y la negrita según la parte que quiera o no destacar.
 
 ![Detalle de portfolio](/assets/img/portf2.JPG){: .mx-auto.d-block :}
 
 En cuanto al contenido, he querido destacar **los proyectos**, tanto personales como laborales, pues considero que un reclutador es lo que querría ver de un desarrollador web: qué herramientas usa, qué lenguajes y las aplicaciones que ha desarrollado. Esto lo acompaño con una **pequeña descripción** del mismo, donde cuento cómo lo he hecho, los problemas que me han surgido y aquellos que he conseguido solucionar.
 
-Todo esto da como resultado (a mi parecer) un portfolio sencillo, que va al grano y que no intenta hacer perder el tiempo al reclutador, pues considero que con la cantidad de CV que reciben es muy dificil que alguien lea al 100% tu curriculum, y al final terminan haciendo una **lectura en diagonal** y de lo más importante de la web.
+Todo esto da como resultado (a mi parecer) un portfolio sencillo, que va al grano y que no intenta hacer perder el tiempo al reclutador, pues considero que con la cantidad de CV que reciben es muy difícil que alguien lea al 100% tu currículum, y al final terminan haciendo una **lectura en diagonal** y de lo más importante de la web.
 
 La siguiente clase de la semana estuvo dedicada a **usar un lector de pantalla y una herramienta sobre accesibilidad**. En nuestro caso usamos [NVDA](https://nvda.es/) que son las siglas de *Non Visual Desktop Access*. Se trata de una herramienta gratuita que permite tener un lector de pantalla en nuestro ordenador. Estuvimos practicando con **diferentes webs** y descubrimos que la mayor parte de los sitios visitados tienen fallos en cuanto a accesibilidad y compatibilidad con *lectores de pantalla*.
 
@@ -36,7 +36,7 @@ En esta clase también realizamos un ejercicio con una herramienta para testear 
 
 ![Detalle de la herramienta Wave](/assets/img/wherr.JPG){: .mx-auto.d-block :}
 
-En la imagen superior se puede ver cómo desglosa los resultados la herramnienta. Es muy intuitiva ya que permite acceder a cada elemento de la web desde el menu contextual de la izquierda. De esta manera, podemos situar en la página aquellos **elementos** que dan error, pudiendo ver su código así como un detalle de la propia descripción de la pauta del W3C que incumple, incluyendo consemos sobre cómo mejorarlo. 
+En la imagen superior se puede ver cómo desglosa los resultados la herramnienta. Es muy intuitiva ya que permite acceder a cada elemento de la web desde el menu contextual de la izquierda. De esta manera, podemos situar en la página aquellos **elementos** que dan error, pudiendo ver su código así como un detalle de la propia descripción de la pauta del W3C que incumple, incluyendo consejos sobre cómo mejorarlo. 
 
 Los compañeros también propusieron herramientas muy interesantes que me sirvieron para *tenerlas en cuenta* para cuando audite mis propios proyectos. Las conclusiones del experimento se pueden resumir en las siguientes:
 
