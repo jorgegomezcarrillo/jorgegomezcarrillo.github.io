@@ -27,3 +27,9 @@ Aunque por *cuestiones de tiempo* no dió tiempo a que se revisara mi trabajo, S
 En cuanto al contenido, he querido destacar **los proyectos**, tanto personales como laborales, pues considero que un reclutador es lo que querría ver de un desarrollador web: qué herramientas usa, qué lenguajes y las aplicaciones que ha desarrollado. Esto lo acompaño con una **pequeña descripción** del mismo, donde cuento cómo lo he hecho, los problemas que me han surgido y aquellos que he conseguido solucionar.
 
 Todo esto da como resultado (a mi parecer) un portfolio sencillo, que va al grano y que no intenta hacer perder el tiempo al reclutador, pues considero que con la cantidad de CV que reciben es muy dificil que alguien lea al 100% tu curriculum, y al final terminan haciendo una **lectura en diagonal** y de lo más importante de la web.
+
+La siguiente clase de la semana estuvo dedicada a **usar un lector de pantalla y una herramienta sobre accesibilidad**. En nuestro caso usamos [NVDA](https://nvda.es/) que son las siglas de *Non Visual Desktop Access*. Se trata de una herramienta gratuita que permite tener un lector de pantalla en nuestro ordenador. Estuvimos practicando con **diferentes webs** y descubrimos que la mayor parte de los sitios visitados tienen fallos en cuanto a accesibilidad y compatibilidad con *lectores de pantalla*.
+
+En este punto descubrí que existe un narrador en Windows 10 que se muestra usando la combinación de teclas *ctrl + Win + n*. Aunque no tiene grandes opciones y funciona un tanto mal, sirve para tener un acercamiento al tema y, al menos **ya viene preinstalado con el sistema*.
+
+En esta clase también realizamos un ejercicio con una herramienta para testear la accesibilidad
