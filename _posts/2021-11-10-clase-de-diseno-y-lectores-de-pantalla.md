@@ -46,6 +46,15 @@ Los compañeros también propusieron herramientas muy interesantes que me sirvie
 
 La última clase de la semana, y con la que cerramos el capítulo sobre **accesibilidad**, la centramos en realizar [test en W3School](https://www.w3schools.com/accessibility/index.php) sobre accesibilidad. Los resultados que conseguí se pueden ver en la imagen inferior.
 
-![Concurso W3Schools](/assets/img/quizz.JPG){: .mx-auto.d-block :}
+![Test W3Schools](/assets/img/quizz.JPG){: .mx-auto.d-block :}
 
-La verdad es que saqué en claro varias conclusiones a tener en cuenta, sobre todo en lo relativo a **etiquetas propias de HTML5** específicas para accesibilidad.
+La verdad es que saqué en claro varias conclusiones a tener en cuenta, sobre todo en lo relativo a **etiquetas propias de HTML5** específicas para accesibilidad, algunas ya las conocía de otros cursos que he realizado en el pasado, pero las más importantes se pueden resumir en:
+
+- Utilizar etiquetas semánticas como `<section>`, `<aside>` o `<main>`.
+- Usar correctamente botones (cuando hacemos acciones) y enlaces (cuando nos llevan a otra página).
+- Importancia del atributo `role`.
+- Usar correctamente el `aria-label`.
+- Usar los atributos de `value`.
+- Evitar usar la propiedad CSS `outline: 0` pues quita el foco de los elementos.
+
+
