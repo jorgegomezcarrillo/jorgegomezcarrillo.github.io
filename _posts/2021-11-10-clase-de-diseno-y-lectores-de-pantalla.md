@@ -32,4 +32,10 @@ La siguiente clase de la semana estuvo dedicada a **usar un lector de pantalla y
 
 En este punto descubrí que existe un narrador en Windows 10 que se muestra usando la combinación de teclas *ctrl + Win + n*. Aunque no tiene grandes opciones y funciona un tanto mal, sirve para tener un acercamiento al tema y, al menos **ya viene preinstalado con el sistema*.
 
-En esta clase también realizamos un ejercicio con una herramienta para testear la accesibilidad
+En esta clase también realizamos un ejercicio con una herramienta para testear la accesibilidad. Se realizó un **foro** en la asignatura y cada uno eligió una herramienta para practicar. En mi caso use [Wave](https://wave.webaim.org/), una herramienta que me gustó por su sencillez (y que es totalmente gratis) y que permite auditar webs de una manera muy rápida y visual. Probé con varias páginas (la web del Planes, La del Ayuntamiento de Murcia o la propia del consorcio W3).
+
+![Detalle de la herramienta Wave](/assets/img/wherr.JPG){: .mx-auto.d-block :}
+
+En la imagen superior se puede ver cómo desglosa los resultados la herramnienta. Es muy intuitiva ya que permite acceder a cada elemento de la web desde el menu contextual de la izquierda. De esta manera, podemos situar en la página aquellos **elementos** que dan error, pudiendo ver su código así como un detalle de la propia descripción de la pauta del W3C que incumple, incluyendo consemos sobre cómo mejorarlo.
+
+Los compañeros también propusieron herramientas muy interesantes que me sirvieron para *tenerlas en cuenta* para cuando audite mis propios proyectos.
