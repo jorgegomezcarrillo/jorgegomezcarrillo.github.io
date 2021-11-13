@@ -104,7 +104,7 @@ var BeautifulJekyllJS = {
   },
 
   setImg : function(src, desc) {
-    $(".intro-header.big-img").css("background-image", 'url(' + src + ')');
+    $(".intro-header.big-img").css("background-image", 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5))', 'url(' + src + ')');
     if (typeof desc !== typeof undefined && desc !== false) {
       $(".img-desc").text(desc).show();
     } else {
