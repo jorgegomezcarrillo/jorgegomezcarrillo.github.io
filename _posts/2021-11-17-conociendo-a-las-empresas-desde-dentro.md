@@ -32,5 +32,5 @@ Lo que me pareció más interesante fue el apartado de **metodología**, pues cr
 
 Nos habló de la importancia del **diseño por componentes**, algo que ya hemos visto en esta asignatura y que, sin duda, veremos en las próximas clases con Luismi cuando empecemos a tocar *Angular*. **Spoiler**: en mi caso ya he visto algo al respecto, pues he trasteado con Vue y React. Nos comentó también la existencia de los **UI Kit**, enfocados a englobar en un único lugar la descomposición de todos los elementos que se usan en el proyecto para que los equipos de desarrollo los tengan como *guías* a la hora de programar.
 
-![Diseño atómico](/assets/img/atom.PNG){: .mx-auto.d-block :}
+![Diseño atómico](/assets/img/atom.JPG){: .mx-auto.d-block :}
 
