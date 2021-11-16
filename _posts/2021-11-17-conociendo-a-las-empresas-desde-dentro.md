@@ -31,3 +31,6 @@ Lo que me pareció más interesante fue el apartado de **metodología**, pues cr
 - **Design Sprint**. Lo que nos definió como un *Design Thinking pero en modo hackaton*, pues se establece una semana más o menos para acabarlo. Normalmente esta metodología se usa para enfocarse en una tecnología en concreto.
 
 Nos habló de la importancia del **diseño por componentes**, algo que ya hemos visto en esta asignatura y que, sin duda, veremos en las próximas clases con Luismi cuando empecemos a tocar *Angular*. **Spoiler**: en mi caso ya he visto algo al respecto, pues he trasteado con Vue y React. Nos comentó también la existencia de los **UI Kit**, enfocados a englobar en un único lugar la descomposición de todos los elementos que se usan en el proyecto para que los equipos de desarrollo los tengan como *guías* a la hora de programar.
+
+![Diseño atómico](/assets/img/atom.PNG){: .mx-auto.d-block :}
+
