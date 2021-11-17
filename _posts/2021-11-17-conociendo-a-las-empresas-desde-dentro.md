@@ -46,3 +46,5 @@ d) Ambas sirven para lo mismo.
 ![Ejercicio FlexBox](/assets/img/ranas.JPG){: .mx-auto.d-block :}
 
 Por último, realizamos un ejercicio individual sobre el uso de **FlexBox** en donde, mediante esta propiedad de CSS, debíamos posicionar [una rana](https://laboratoria.github.io/flexboxfroggy/) usando las distintas opciones que nos da FlexBox. En la imagen superior se puede ver una captura de cómo **conseguí pasarme el juego** (por desgracia se me olvidó reclamar el premio). Un ejercicio muy interesante, sobre todo el último nivel, que me hizo sudar bastante pues no te daban ningún tipo de ayuda y el posicionamiento de las ranas era bastante complejo.
+
+Una semana más, una semana menos (¡estoy deseando empezar las prácticas en empresa!). Espero con ganas las siguientes clases, pues ya empezaremos a tocar *más código*, sobre todo con Bootstrap, FlexBox, las media queries o CSS Grid.
