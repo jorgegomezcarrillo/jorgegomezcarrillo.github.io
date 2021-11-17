@@ -34,14 +34,14 @@ Nos habló de la importancia del **diseño por componentes**, algo que ya hemos 
 
 ![Diseño atómico](/assets/img/atom.JPG){: .mx-auto.d-block :}
 
-El final de la semana estuvo marcado por el **Kahoot** realizado con las preguntas que cada uno de nosotros propuso sobre la charla de Mario. La mía, como he comentado más arriba, trató sobre uno de los aspectos que más me gustaron de la charla, la metodología. Fue uno de los que mejor me salió, tanto es así que quedé primero y recibí un valioso premio: *un bombón de chocolate*. La verdad es que estuvieron muy interesantes las diversas preguntas de los compañeros, e incluso se produjo un pequeño debate sobre cómo entendiamos las distintas fases/apartados de la metodología Design Thinking.
+El final de la semana estuvo marcado por el **Kahoot** realizado con las preguntas que cada uno de nosotros propuso sobre la charla de Mario. La mía, como he comentado más arriba, trató sobre uno de los aspectos que más me gustaron de la charla, la metodología. Fue uno de los que mejor me salió, tanto es así que quedé primero y recibí un valioso premio: *un bombón de chocolate*. La verdad es que estuvieron muy interesantes las diversas preguntas de los compañeros, e incluso se produjo un pequeño debate sobre cómo entendíamos las distintas fases/apartados de la metodología Design Thinking.
 
 Mi pregunta para el juego fue la siguiente:
 
-a) El Design Sprint dura, al menos, tres semanas.
-b) No son aplicables a UX/UI.
-c) **El Design Thinking realiza un análisis más exhaustivo.**
-d) Ambas sirven para lo mismo.
+- El Design Sprint dura, al menos, tres semanas.
+- No son aplicables a UX/UI.
+- **El Design Thinking realiza un análisis más exhaustivo.**
+- Ambas sirven para lo mismo.
 
 ![Ejercicio FlexBox](/assets/img/ranas.JPG){: .mx-auto.d-block :}
 
