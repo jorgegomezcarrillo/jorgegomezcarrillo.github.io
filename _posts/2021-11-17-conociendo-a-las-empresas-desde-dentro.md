@@ -34,3 +34,15 @@ Nos habló de la importancia del **diseño por componentes**, algo que ya hemos 
 
 ![Diseño atómico](/assets/img/atom.JPG){: .mx-auto.d-block :}
 
+El final de la semana estuvo marcado por el **Kahoot** realizado con las preguntas que cada uno de nosotros propuso sobre la charla de Mario. La mía, como he comentado más arriba, trató sobre uno de los aspectos que más me gustaron de la charla, la metodología. Fue uno de los que mejor me salió, tanto es así que quedé primero y recibí un valioso premio: *un bombón de chocolate*. La verdad es que estuvieron muy interesantes las diversas preguntas de los compañeros, e incluso se produjo un pequeño debate sobre cómo entendiamos las distintas fases/apartados de la metodología Design Thinking.
+
+Mi pregunta para el juego fue la siguiente:
+
+a) El Design Sprint dura, al menos, tres semanas.
+b) No son aplicables a UX/UI.
+c) **El Design Thinking realiza un análisis más exhaustivo.**
+d) Ambas sirven para lo mismo.
+
+![Ejercicio FlexBox](/assets/img/ranas.JPG){: .mx-auto.d-block :}
+
+Por último, realizamos un ejercicio individual sobre el uso de **FlexBox** en donde, mediante esta propiedad de CSS, debíamos posicionar [una rana](https://laboratoria.github.io/flexboxfroggy/) usando las distintas opciones que nos da FlexBox. En la imagen superior se puede ver una captura de cómo **conseguí pasarme el juego** (por desgracia se me olvidó reclamar el premio). Un ejercicio muy interesante, sobre todo el último nivel, que me hizo sudar bastante pues no te daban ningún tipo de ayuda y el posicionamiento de las ranas era bastante complejo.
