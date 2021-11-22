@@ -7,7 +7,7 @@ share-img: /assets/img/adapttt.png
 tags: [responsive, reflexion, adaptativo]
 ---
 
-Arrancamos la semana viendo los conceptos **básico de diseño responsive**. La última clase ya dejamos visto por encima alguna de las nuevas metodologías de posicionamiento, *en concreto FlexBox* con el juego de la rana y esta semana Susana nos ha enseñado el por qué del uso de ciertos elementos. En primer lugar, hay que hacer una diferenciación muy sutil entre **diseño adaptativo** y **diseño responsive**. En [esta web](https://www.navarraweb.com/web-responsiva-vs-adaptable-cual-es-la-diferencia/) hacen un análisis bastante claro de la diferencia, que se puede resumir en:
+Arrancamos la semana viendo los conceptos **básico de diseño responsive**. La última clase ya dejamos visto por encima alguna de las nuevas metodologías de posicionamiento, *en concreto FlexBox* con el juego de la rana y esta semana Susana nos ha enseñado el porqué del uso de ciertos elementos. En primer lugar, hay que hacer una diferenciación muy sutil entre **diseño adaptativo** y **diseño responsive**. En [esta web](https://www.navarraweb.com/web-responsiva-vs-adaptable-cual-es-la-diferencia/) hacen un análisis bastante claro de la diferencia, que se puede resumir en:
 
 - *Diseño adaptativo*: Usa media queries buscando una mayor flexibilidad. Visualmente no se aprecian tirones.
 - *Diseño responsive*: Usa tamaños de pantalla preestablecidos. Se aprecian tirones.
@@ -16,11 +16,11 @@ Un aspecto fundamental del diseño responsive (de ahora en adelante no haré dis
 
 > *El viewport en un navegador en cualquier ordenador con sistemas tradicionales es igual al área de la ventana, o mejor dicho, al área disponible para renderizar el documento web.*
 
-Si no usaramos esta etiqueta, el contenido de la página *se reduciría* para ocupar todo el espacio, esto provocaría que el texto fuera ilegible. Podríamos decir que la pantalla está **emulando** el espacio que tiene. Esta etiqueta admite varios parámetros y escalas, aunque lo más habitual es dejarlo como se ha indicado en la línea superior. Hoy en día contamos con varias herramientas que nos permiten *no olvidarnos* de esta línea, por ejemplo, en VSCode al escribir la exclamación hacía abajo (!) y darle a **tabulador**, se nos creará una estructura básica de HTML con esta etiqueta.
+Si no usáramos esta etiqueta, el contenido de la página *se reduciría* para ocupar todo el espacio, esto provocaría que el texto fuera ilegible. Podríamos decir que la pantalla está **emulando** el espacio que tiene. Esta etiqueta admite varios parámetros y escalas, aunque lo más habitual es dejarlo como se ha indicado en la línea superior. Hoy en día contamos con varias herramientas que nos permiten *no olvidarnos* de esta línea, por ejemplo, en VSCode al escribir la exclamación hacía abajo (!) y darle a **tabulador**, se nos creará una estructura básica de HTML con esta etiqueta.
 
 ![Diseño responsive](/assets/img/viewport.png){: .mx-auto.d-block :}
 
-Esta clase estuvo marcada por un debate que se generó en torno a los **pixeles de las pantallas**. Según los apuntes existen tres tipos de pixeles según a qué nos estemos refiriendo. Esto existe ya que el ordenador tiene que saber diferencia entre los píxeles propios de la pantalla así como los que está usando la vista actual. Se pueden resumir en:
+Esta clase estuvo marcada por un debate que se generó en torno a los **pixeles de las pantallas**. Según los apuntes existen tres tipos de pixeles según a qué nos estemos refiriendo. Esto existe ya que el ordenador tiene que saber diferencia entre los píxeles propios de la pantalla, así como los que está usando la vista actual. Se pueden resumir en:
 
 - Hardware Pixel: procedentes de la tarjeta gráfica.
 - Device Independent Pixel (DPI): unidad del navegador.
@@ -32,4 +32,4 @@ Comentamos también el uso de plantillas por parte de [la web de W3Schools](http
 
 ![Ejemplo plantillas](/assets/img/templ.JPG){: .mx-auto.d-block :}
 
-Por último, para esta clase se realizó un **ejercicio básico en CSS Grid** en donde teníamos que crear una rejilla, colorear sus elementos e incluso ordenarlos según el esquema que nos dió Susana. Un ejercicio muy sencillo pero que me sirvió *para recordar* algunas de las propiedades de esta nueva forma de posicionamiento.
+Por último, para esta clase se realizó un **ejercicio básico en CSS Grid** en donde teníamos que crear una rejilla, colorear sus elementos e incluso ordenarlos según el esquema que nos dio Susana. Un ejercicio muy sencillo pero que me sirvió *para recordar* algunas de las propiedades de esta nueva forma de posicionamiento.
