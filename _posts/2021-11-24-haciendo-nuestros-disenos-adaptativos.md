@@ -28,4 +28,8 @@ Esta clase estuvo marcada por un debate que se generó en torno a los **pixeles 
 
 Al final no se sacó nada en claro debido a la complejidad del asunto aunque es importante tener presente que existen así como que debemos de usar la etiqueta meta. Con esto queda en **gran valor el trabajo** de los diseñadores y/o maquetadores que deben lidiar en su día a día con este tipo de menesteres.
 
-Comentamos también
+Comentamos también el uso de plantillas por parte de [la web de W3Schools](https://www.w3schools.com/w3css/w3css_templates.asp) donde podemos encontrar el código de multitud de ejemplos de páginas web, ya listas para usarlas. Creo que esto es útil a la hora de hacer *prototipos básicos* aunque seguramente tengamos que realizar algo personalizado si queremos escalar a algo más grande. No obstante, si sabemos usar **Bootstrap**, este nos proporciona una serie de media queries ya preestablecidas que nos ahorran incluso más el trabajo.
+
+![Ejemplo plantillas](/assets/img/templ.JPG){: .mx-auto.d-block :}
+
+Por último, para esta clase se realizó un **ejercicio básico en CSS Grid** en donde teníamos que crear una rejilla, colorear sus elementos e incluso ordenarlos según el esquema que nos dió Susana. Un ejercicio muy sencillo pero que me sirvió *para recordar* algunas de las propiedades de esta nueva forma de posicionamiento.
