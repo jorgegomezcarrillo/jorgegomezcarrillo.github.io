@@ -33,3 +33,11 @@ Comentamos también el uso de plantillas por parte de [la web de W3Schools](http
 ![Ejemplo plantillas](/assets/img/templ.JPG){: .mx-auto.d-block :}
 
 Por último, para esta clase se realizó un **ejercicio básico en CSS Grid** en donde teníamos que crear una rejilla, colorear sus elementos e incluso ordenarlos según el esquema que nos dio Susana. Un ejercicio muy sencillo pero que me sirvió *para recordar* algunas de las propiedades de esta nueva forma de posicionamiento.
+
+Por mi parte, me propuse adaptar el ejercicio que se nos propuso con CSS Grid con *floats y Flexbox*. He de decir que a algunos compañeros les dio bastantes problemas el Grid, algo que yo creo se soluciona aplicando **las áreas**, un sencillo sistema que nos permite colocar gráficamente los distintos elementos de la web. De esta manera, sin necesidad de imaginarse dónde va cada elemento, las áreas nos permiten dibujarlas en su sitio mediante la propiedad `grid-template-areas`.
+
+Realizamos también una introducción a **Bootstrap** mediante un *Hola Mundo*, y experimentamos colocando los distintos componentes que trae por defecto como carruseles, cards o botones. Personalmente **ya había tocado algo de este framework**, sobre todo en proyectos personales y (recientemente) en los ejercicios de Fernando en PHP y Luismi en JavaScript. Quizá lo más interesante de este framework [sea el Grid](https://getbootstrap.com/docs/4.0/layout/grid/) o las rejillas, tal y como las define Boostrap, pero supongo que esto es algo que veremos más adelante.
+
+A los que ya habíamos acabado el ejercicio de Grid, Susana nos mandó uno relativo a **botones fantasma**. Bajo este nombre se esconden los elementos `<a>` de HTML pero diseñados de tal manera que *parecen botones reales*. Un ejemplo de mi ejercicio se puede ver en la imagen inferior. El botón tenía un efecto hover, para que al pasar el ratón sobre él se invirtieran los colores. Es importante tener claro cuándo usar botones "normales" o estos falsos botones, teniendo siempre en mente la **accesibilidad**.
+
+![Botones fantasma](/assets/img/fantasma.PNG){: .mx-auto.d-block :}
