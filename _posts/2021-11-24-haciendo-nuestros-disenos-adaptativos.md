@@ -41,3 +41,23 @@ Realizamos también una introducción a **Bootstrap** mediante un *Hola Mundo*, 
 A los que ya habíamos acabado el ejercicio de Grid, Susana nos mandó uno relativo a **botones fantasma**. Bajo este nombre se esconden los elementos `<a>` de HTML pero diseñados de tal manera que *parecen botones reales*. Un ejemplo de mi ejercicio se puede ver en la imagen inferior. El botón tenía un efecto hover, para que al pasar el ratón sobre él se invirtieran los colores. Es importante tener claro cuándo usar botones "normales" o estos falsos botones, teniendo siempre en mente la **accesibilidad**.
 
 ![Botones fantasma](/assets/img/fantasma.PNG){: .mx-auto.d-block :}
+
+La clase final de la semana la dedicamos a repasar **Bootstrap**. En primer lugar, les enseñé a mis compañeros cómo había resuelto el ejercicio de CSS Grid usando las áreas (explicadas más arriba). Aquí abajo se puede ver una fragmento del código que he usado, una manera muy sencilla de colocar elementos dentro de la rejilla:
+
+```css
+.container {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-template-areas:
+		'uno tres tres dos'
+		'cuatro cuatro cuatro cuatro';
+	text-align: center;
+	color: white;
+}
+```
+
+![Ejercicio Grid](/assets/img/rejilla.JPG){: .mx-auto.d-block :}
+
+Los conceptos más interesantes fueron los relativos al [comportamiento de la rejilla](https://getbootstrap.com/docs/5.1/layout/grid/). Es posible que al principio pueda resultar complicado, pero una vez lo comprendes es cuando empiezas a *entender el potencial* de este framework. En la imagen inferior se pueden ver algunos de mis *experimentos*. Realicé unos puntos de ruptura para que las columnas de la tabla se apilaran de manera horizontal (ocupando todo el ancho) cuando se trate de **dispositivos móviles**.
+
+![Ejercicio Grid](/assets/img/botsm.JPG){: .mx-auto.d-block :}
