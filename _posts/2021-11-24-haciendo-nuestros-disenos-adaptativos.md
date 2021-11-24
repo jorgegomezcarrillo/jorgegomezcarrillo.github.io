@@ -61,3 +61,5 @@ La clase final de la semana la dedicamos a repasar **Bootstrap**. En primer luga
 Los conceptos más interesantes fueron los relativos al [comportamiento de la rejilla](https://getbootstrap.com/docs/5.1/layout/grid/). Es posible que al principio pueda resultar complicado, pero una vez lo comprendes es cuando empiezas a *entender el potencial* de este framework. En la imagen inferior se pueden ver algunos de mis *experimentos*. Realicé unos puntos de ruptura para que las columnas de la tabla se apilaran de manera horizontal (ocupando todo el ancho) cuando se trate de **dispositivos móviles**.
 
 ![Ejercicio Grid](/assets/img/botsm.JPG){: .mx-auto.d-block :}
+
+Echando la vista atrás, ha sido una de las semanas **más interesantes** pues, como ya he comentado en anteriores ocasiones, funciono mejor con clases *prácticas* que con teoricas. Me gusta "mancharme" las manos programando, corrigiendo errores y leyendo la documentación oficial; creando un proyecto desde cero y usando los conocimientos de otras asignaturas.
