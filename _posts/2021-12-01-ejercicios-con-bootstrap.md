@@ -22,3 +22,5 @@ He de decir que, al principio, me resultó algo complejo (sobre todo cómo hacer
 ![Ejercicio Bootstrap con grid dos](/assets/img/grid-bot2.PNG){: .mx-auto.d-block :}
 
 Terminamos el día realizando un nuevo *Kahoot*, esta vez enfocado en conceptos de adaptabilidad, viewport, píxeles y demás temas realacionados con esta unidad. Remontando desde abajo conseguí quedar **tercero** en una competición que estuvo bastante interesante.
+
+La semana terminó rápido pues el *último día* no tuvimos clase. Aproveché para terminar unos ejercicios de **JavaScript** bastante interesantes sobre peticiones a una base de datos. La verdad es que es una de las asignaturas que más me gustan del ciclo, pues Luismi nos *plantea retos complicados* pero asequibles. También terminé de hacer algunas mejoras al ejercicio del que he hablado en este post, sobre todo en cuestiones estéticas, pues la disposición de los elementos ya estaba resuelta. Como viene siendo habitual estas últimas semanas, han sido unos días *muy productivos*, aprendiendo gran cantidad de cosas nuevas.
