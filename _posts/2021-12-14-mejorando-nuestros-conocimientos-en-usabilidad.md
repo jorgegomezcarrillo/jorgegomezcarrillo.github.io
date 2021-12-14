@@ -20,3 +20,8 @@ El resto de de la clase la dedicamos a repasar las **10 reglas heurísticas de N
 8. Estética y diseño minimalista
 9. Ayuda al usuario a reconocer, diagnosticar y recuperarse de los errores
 10. Ayuda y documentación
+
+Este conjunto de reglas, sacadas [de esta web](https://www.uifrommars.com/10-reglas-heuristicas-como-aplicarlas/) nos permitirán detectar una gran cantidad de errores de usabilidad sin necesidad de tener usuarios probando tu producto. 
+
+![Reglas de heurística](/assets/img/heuristic.png){: .mx-auto.d-block :}
+
