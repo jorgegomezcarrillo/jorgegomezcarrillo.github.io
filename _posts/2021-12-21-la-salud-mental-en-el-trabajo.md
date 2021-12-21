@@ -37,3 +37,5 @@ El cambio llegó un viernes (como siempre que alguien era invitado a marcharse d
 No fue años más tarde, *en la asignatura de FOL*, cuando descubrí que tenía todos los síntomas del **burnout**. Por suerte, creo que supe tomar la dirección correcta y reconducir mi vida laboral en por buen camino. A día de hoy me encuentro con más ganas que nunca de volver al mundo laboral, en un empleo que me gusta (y el que creo debería haber sido mi primera opción), en un sector con mucha oferta y con posibilidades de mejorar tanto personal como profesionalmente.
 
 Pasar por esta situación no fue lo más agradable del mundo, **pero sin conflicto no hay progreso**.
+
+Espero que la reflexión haya resultado interesante. He intentado darle un *enfoque diferente* para evitar entrar el datos o gráficos. Solemos interiorizar mejor las experiencias de otras personas, y espero que con la mía alguien se haya sentido **identificado** y aprenda a mejorar su situación actual.
