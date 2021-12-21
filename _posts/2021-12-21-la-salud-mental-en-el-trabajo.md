@@ -4,7 +4,7 @@ title: La salud mental en el trabajo
 subtitle: Problemas del estrés diario
 cover-img: /assets/img/mental.png
 share-img: /assets/img/mental.png
-published: false
+draft: true
 tags: [reflexion, salud, mental]
 ---
 
