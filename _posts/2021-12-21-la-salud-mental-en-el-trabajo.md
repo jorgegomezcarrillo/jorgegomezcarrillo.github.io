@@ -48,4 +48,8 @@ No fue años más tarde, *en la asignatura de FOL*, cuando descubrí que tenía 
 
 Pasar por esta situación no fue lo más agradable del mundo, **pero sin conflicto no hay progreso**.
 
+## Qué opciones tenemos para mejorar nuestra salud mental
+
+La charla que visualizamos, así como mi experiencia personal relatada más arriba, me llevó a preguntarmé **cómo podemos evitar** o mejorar nuestra salud mental hoy en día. Puesto que cada empleo es un mundo, encontré un par de artículos interesantes sobre [cómo puede mejorar su salud mental un desarrollador](https://techcrunch.com/2021/11/11/5-ways-to-improve-mental-health-for-software-developers/?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAABl7xg3w1p4rBDPTtSF1fPmR7LednJhAQhSuptGTntuRIteA0L1k0RRWyoN2xkVFrA5HO25A4q_yoX0mWSJHyhSIhcBYqXH8mF1wTvgRjb1HcO_7YLImuXP1p5HHe7KA7YPKlQ1CnY9_SPVRYGBfouvnCqKEl5vK9d49fBRx33Ze) así otra [lista de trucos](https://dev.to/taxdoo/6-ways-to-look-after-your-mental-health-as-a-developer-3bde) en esta otra página. Todo esto, junto con mi experiencia personal, lo he resumido en los siguientes puntos:
+
 Espero que la reflexión haya resultado interesante. He intentado darle un *enfoque diferente* para evitar entrar en una maraña de datos o gráficos. Solemos interiorizar mejor las experiencias de otras personas, y espero que con la mía alguien se haya sentido **identificado** y aprenda a mejorar su situación actual. Por desgracia, este tipo de situaciones hay que vivirlas para poder crecer como personas y forjarnos nuestro propio caracter.
