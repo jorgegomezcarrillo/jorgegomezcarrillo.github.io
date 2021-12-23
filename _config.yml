@@ -14,8 +14,6 @@ author: Jorge G.
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Sobre mí: "sobremi"
-  GitHub: "https://github.com/jorgegomezcarrillo"
   Inicio: "https://jorgegomezcarrillo.github.io/"
 
 # --- Logo --- #
