@@ -10,6 +10,14 @@ tags: [reflexion, salud, mental]
 
 La última semana de la asignatura la dedicamos a tratar temas bastante interesantes. Entre ellos, todo lo relativo a **las prácticas en la empresa** así como al **proyecto final** del ciclo, incluso un pequeño ejercicio donde tuvimos que mostrar una herramienta para *testear* la usabilidad de una web. En mi caso analicé [Try my ui](https://www.trymyui.com/) una utilidad que, a la postre, me decepcionó bastante, pero que me permitió ver el amplio mundo que se esconde tras los beta testers.
 
+![Try my ui](/assets/img/tryui.PNG){: .mx-auto.d-block :}
+
+Como ya comenté en clase, la aplicación es un tanto compleja y enfocada a testers que tienen cierta experiencia en el asunto. La generación de los test permite añadir multitud de factores: sexo, edad, población, empleo, etc., así como preguntas específicas sobre la interfaz que queremos testear. Me dio la impresión de que la aplicación funcionaba algo lenta en su plan gratuito al igual que me pareció que la gran mayoría de estas aplicaciones eran de pago. A diferencia de las extensiones que probamos para **testear la usabilidad**, solo encontré una extensión para Chrome llamada **UX Radar** que se basaba en las [Reglas heurísticas de Nielsen](https://www.uifrommars.com/10-reglas-heuristicas-como-aplicarlas/).
+
+![Try my ui](/assets/img/tryres.PNG){: .mx-auto.d-block :}
+
+En la *imagen superior* se pueden ver los resultados de uno de los ejemplos que proporciona Try My UI. Como digo, tampoco son **nada clarificadores** en cuanto al uso, no existen mapas de calor y las conclusiones se basan, fundamentalmente, en lo que hayan respondido los testers a las preguntas. Lo más interesante de la aplicación es la posibilidad de visualizar un video de cómo se ha movido el usuario por la página web.
+
 No obstante, el motivo de esta entrada es hablar de una charla que nos proyectó Susana sobre **salud mental**, un video procedente de unas charlas que se dieron en *Gran Canaria* y que hemos tenido la suerte de ver ya que la profesora solicitó acceso a las mismas.
 
 La charla estaba impartida por una profesora (**irlandesa**) y enfocada en todos aquellos aspectos relativos con la salud mental, más si cabe después de una *pandemia*. En la charla nos compartió datos relativos al **burnout** o síndrome de estar quemado, así como trucos o técnicas para poder sobrellevar mejor la carga de trabajo. Me gustó especialmente la parte en la que se enfocaba en las relaciones personales, así como en solicitar **ayuda cuando se necesita**. Creo que esto último es algo que he aprendido a lo largo del tiempo, ya que es un error que cometí en mis primeros empleos.
