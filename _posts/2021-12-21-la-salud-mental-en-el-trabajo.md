@@ -29,7 +29,7 @@ En primer lugar, me gustaría decir que me parece completamente **desolador** qu
 
 ![Trucos para evitar el burnout](/assets/img/sts.jpeg){: .mx-auto.d-block :}
 
-La imagen superior es un claro ejemplo de que las cosas **no se están haciendo bien**. De todos los puntos analizados, solo uno corresponde con la empresa. ¿Por qué tenemos que estar produciendo el 100% del tiempo? ¿Qué hay de mejorar la conciliación laboral? ¿No se está viendo que mejorar la calidad de vida del trabajador repercute positivamente en el trabajo? Tal y como comentamos en clase, en España existe el **presentismo laboral**.
+La imagen superior es un claro ejemplo de que las cosas **no se están haciendo bien**. De todos los puntos analizados, solo uno corresponde con la empresa. ¿Por qué tenemos que estar produciendo el 100% del tiempo? ¿Qué hay de mejorar la conciliación laboral? ¿No se está viendo que mejorar la calidad de vida del trabajador repercute positivamente en el trabajo? Esto es algo tan grave que incluso un **YouTuber de renombre como Ibai** habla [en un video](https://www.youtube.com/watch?v=2VIW9pxfDh0&ab_channel=Ibai) sobre este asunto. Otro punto de vista, quizá totalmente diferente, es el que se aporta [en este vídeo](https://www.youtube.com/watch?v=oeO8usdJP44&ab_channel=playz) de hace unas semanas. Una charla bastante interesante en la que se plantea el mundo de la salud mental como un *negocio*.
 
 ## Qué opciones tenemos para mejorar nuestra salud mental
 
