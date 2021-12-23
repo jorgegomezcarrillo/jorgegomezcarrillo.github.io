@@ -28,7 +28,7 @@ Aunque la charla estuvo muy interesante, quiero enfocar esta entrada en contar *
 
 En primer lugar, me gustaría decir que me parece completamente **desolador** que todos conozcamos este problema, ya sea burnout o ansiedad, pero que ningún medio, empresa o estamento haga nada por solucionarlo. Y más si atendemos a artículos sobre [el estrés laboral en España](https://iberoeconomia.es/internacional/sindrome-del-burnout-el-45-de-los-espanoles-sufre-estres-laboral/) o más concretamente, [el burnout](https://elpais.com/sociedad/2019/05/27/actualidad/1558956228_933147.html). Si algo bueno nos ha traído la pandemia es que ahora se están empezando a mejorar las condiciones laborales de algunos afortunados (los desarrolladores, por ejemplo), pero es muy triste que hayamos tenido que llegar a esta situación para darnos cuenta.
 
-Todo esto es algo que experimenté de primer mano **en mis primeros empleos**. Creo que el golpe más fuerte fue darme cuenta de que tenía que dejar de hacer mis hobbies a cambio de pasar un determinado número de horas en la empresa; al principio se me hizo muy cuesta arriba seguir un horario laboral tan intenso. *Intercambiamos tiempo por dinero**.
+Todo esto es algo que experimenté de primer mano **en mis primeros empleos**. Creo que el golpe más fuerte fue darme cuenta de que tenía que dejar de hacer mis hobbies a cambio de pasar un determinado número de horas en la empresa; al principio se me hizo muy cuesta arriba seguir un horario laboral tan intenso. **Intercambiamos tiempo por dinero**.
 
 ![Trucos para evitar el burnout](/assets/img/sts.jpeg){: .mx-auto.d-block :}
 
