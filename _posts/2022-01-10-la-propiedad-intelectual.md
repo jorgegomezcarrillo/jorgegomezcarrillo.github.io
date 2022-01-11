@@ -20,3 +20,5 @@ Comentamos los distintos tipos de licencias. En primer lugar, la [Creative Commo
 ![Licencia CC](/assets/img/licenciacc.JPG){: .mx-auto.d-block :}
 
 También resultó muy interesante la entrevista en vídeo a **Richard Stallman**, el creador de la licencia *GNU* que, gracias a la unión posterior con Linux, ha dado lugar a uno de los *sistemas operativos de software libre* más usados. [La vida de este hombre](https://es.wikipedia.org/wiki/Richard_Stallman) me resulta muy interesante, pues ha sido uno de los que ha vivido de primera mano todo el auge de la informática e internet.
+
+Uno de los aspectos **más enrevesados** del asunto de las licencias es la diferencia entre Software libre y Código abierto. Conceptualmente son lo mismo, la diferencia radica en el *aspecto moral/ético* (personas que creen que hay que cambiar el mundo a través del software libre) más que en aspectos técnicos. Podemos considerar el software libre como un **movimiento ideológico/político**, mientras que en el código abierto obviamos los problemas sociales y permitimos un acceso al código, sin importarnos todo lo demás.
