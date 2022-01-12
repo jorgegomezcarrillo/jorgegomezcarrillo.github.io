@@ -30,3 +30,14 @@ Personalmente, creo que este tipo de cuestiones hacen que el trabajo de programa
 Para ilustrar todo esto, realizamos un **ejercicio** en donde teníamos que atribuir los créditos de una fotografía con licencia *Creative Commons*, y adjuntarla en el ejercicio que realizamos sobre una receta. En mi caso he usado Google imágenes con el *filtro* para buscar imágenes con este tipo de licencia y he conseguido la que se ve en la imagen inferior. He usado *Canva* para ello, valiéndome de la herramienta para *girar texto* y que así quede integrada en todo el conjunto.
 
 ![Receta hummus CC](/assets/img/hummuscc.JPG){: .mx-auto.d-block :}
+
+Con el objetivo de afianzar todos estos conceptos, realizamos un **Kahoot** en donde, por suerte, quedé primero. La verdad es que me sirvió bastante para aclarar algunos aspectos que me fallaban, sobre todo en lo relativo al *copyleft*. Con la siguiente definición, [sacada de esta página web](https://www.arimetrics.com/glosario-digital/copyleft) queda mucho más claro:
+
+> *El copyleft es una licencia de creación que consiste en liberar un programa informático, una obra de arte o cualquier otro tipo de documento para su copia, modificación y redistribución.*
+
+La pregunta que se nos planteó esta semana fue la de elegir una **licencia que nos pareciese adecuada** para nuestros proyectos profesionales. En mi caso, y de manera general, me gustaría que mis proyectos sirvieran para generar otros proyectos, del mismo modo que me gustaría que se me reconociese mi trabajo. La licencia que yo usaría sería la **Creative Commons Reconocimiento - CompartirIgual 4.0 Internacional**.
+
+No obstante, para proyectos más grandes (que me sirvan para generar ingresos y no sean simples proyectos de aprendizaje) usaría 
+la **Creative Commons Reconocimiento - NoComercial - CompartirIgual 4.0 Internacional**. En ambos casos, me gustaría que ambos proyectos se compartieran de la misma manera que yo lo he hecho.
+
+Además de todo esto, existen el GitHub gran cantidad de licencias, como por ejemplo la [MIT License](https://github.com/jorgegomezcarrillo/jorgegomezcarrillo.github.io/blob/master/LICENSE), que es la que tengo puesto para este blog, alojado en un repositorio de GitHub.
