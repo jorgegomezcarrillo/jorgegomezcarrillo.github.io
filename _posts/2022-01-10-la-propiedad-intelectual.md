@@ -40,4 +40,4 @@ La pregunta que se nos planteó esta semana fue la de elegir una **licencia que 
 No obstante, para proyectos más grandes (que me sirvan para generar ingresos y no sean simples proyectos de aprendizaje) usaría 
 la **Creative Commons Reconocimiento - NoComercial - CompartirIgual 4.0 Internacional**. En ambos casos, me gustaría que ambos proyectos se compartieran de la misma manera que yo lo he hecho.
 
-Además de todo esto, existen el GitHub gran cantidad de licencias, como por ejemplo la [MIT License](https://github.com/jorgegomezcarrillo/jorgegomezcarrillo.github.io/blob/master/LICENSE), que es la que tengo puesto para este blog, alojado en un repositorio de GitHub.
+Además de todo esto, existen en GitHub gran cantidad de licencias, como por ejemplo la [MIT License](https://github.com/jorgegomezcarrillo/jorgegomezcarrillo.github.io/blob/master/LICENSE), que es la que tengo puesto para este blog, alojado en un repositorio de GitHub. De manera general, me ha resultado una semana muy interesante, aunque *algo confusa* en cuanto a entender algunos conceptos, pero creo que finalmente puedo defenderme bastante bien en este tema.
