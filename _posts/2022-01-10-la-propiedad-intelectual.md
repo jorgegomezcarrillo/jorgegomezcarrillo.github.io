@@ -26,3 +26,7 @@ También resultó muy interesante la entrevista en vídeo a **Richard Stallman**
 Uno de los aspectos **más enrevesados** del asunto de las licencias es la diferencia entre Software libre y Código abierto. Conceptualmente son lo mismo, la diferencia radica en el *aspecto moral/ético* (personas que creen que hay que cambiar el mundo a través del software libre) más que en aspectos técnicos. Podemos considerar el software libre como un **movimiento ideológico/político**, mientras que en el código abierto obviamos los problemas sociales y permitimos un acceso al código, sin importarnos todo lo demás.
 
 Personalmente, creo que este tipo de cuestiones hacen que el trabajo de programador se convierta en *una tarea compleja*. No obstante, hoy en día tenemos la suerte de contar con una gran cantidad de bancos de imágenes, y hasta el propio buscador de Google nos ofrece un **filtrado de los resultados** en función del tipo de licencia.
+
+Para ilustrar todo esto, realizamos un **ejercicio** en donde teníamos que atribuir los créditos de una fotografía con licencia *Creative Commons*, y adjuntarla en el ejercicio que realizamos sobre una receta. En mi caso he usado Google imágenes con el *filtro* para buscar imágenes con este tipo de licencia y he conseguido la que se ve en la imagen inferior. He usado *Canva* para ello, valiéndome de la herramienta para *girar texto* y que así quede integrada en todo el conjunto.
+
+![Receta hummus CC](/assets/img/hummuscc.JPG){: .mx-auto.d-block :}
