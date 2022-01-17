@@ -11,4 +11,6 @@ En esta nueva semana hemos comenzado viendo las distintas **herramientas gráfic
 
 Algo interesante y que poca gente sabe con respecto al software **Audacity** es que nació como un programa *libre*, pero recientemente fue adquirida por una empresa *rusa* que da la impresión de que usa nuestros datos con algún proposito oscuro. Yo lo conocí gracias a un [artículo en Xataka](https://www.xataka.com/aplicaciones/software-open-source-audacity-cada-vez-open-source-cambiar-duenos-usuarios-descontentos-piden-fork) y desde entonces uso un **fork** llamado *Dark Audacity*. No cuenta con las últimas actualizaciones ni tiene un soporte tan grande, pero para un trabajo básico con audios es *más que suficiente.*
 
+Lo primero que realizamos fue un *logotipo muy básico* de Nike. Susana nos proporcionó un tutorial en PDF sobre el que seguir el proceso, aunque yo usé un **video de YouTube**; el resultado fue el mismo, y la logo resultante se puede ver en la imagen inferior. Como he dicho unas líneas más arriba, me resultó **muy frustrante acostumbrarme** a usar InkScape (el programa usado), los shortcuts no eran los mismos, las herramientas eran otras (los iconos) y la gestión de capas me parecía más simple.
+
 ![Logo Nike](/assets/img/nikelogo.png){: .mx-auto.d-block :}
