@@ -29,3 +29,11 @@ La última clase la dedicamos al **trabajo de equipo** que tenemos que desarroll
 Finalmente decidimos hacerlo de animales marinos *en general*, pues pensamos que así cada uno podría escribir sobre el que más le gustase. Todavía nos falta por darle forma al proyecto y decidir, entre otras cosas, la plataforma donde vamos a **desplegarlo**, la tecnología o la propia estructura del blog. Lo que si tuvimos claro desde el principio es la **forma de organización**. En nuestro caso hemos optado por Trello (imagen inferior), en donde podemos asignar tareas y visualizar de una manera más cómoda *los apartados a realizar en el blog*. Esto también lo combinaremos con el *chat* de WhatsApp o Discord. 
 
 ![Panel de Trello](/assets/img/trello.JPG){: .mx-auto.d-block :}
+
+Desde el principio yo planteé la posibilidad de hacer una [única página](https://diccionarioweb.com/tabla-de-contenidos-indice-en-wordpress/) (al estilo de muchos blogs de SEO), pues lo veía más sencillo a la hora de crear contenido y visualizarlo. Después de consensuarlo un poco más, decidimos hacer *varias páginas* para que quedara más sencillo de cara al usuario.
+
+En cuanto a la tecnología, optamos por un blog en [Wordpress](https://wordpress.com/es/) (gratuito) como primera opción. Nos creamos una cuenta y realizamos un primer despliegue con unas plantillas gratuitas. La **gestión del dominio** fue muy fácil y se nos quedó una dirección URL muy amigable. El problema surgió cuando intentamos instalar **plugins**, ya que nos pedía actualizar a una versión **premium** de pago.
+
+![Plugins](/assets/img/contentsp.JPG){: .mx-auto.d-block :}
+
+Tras todo esto, estamos 
