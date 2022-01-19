@@ -4,7 +4,7 @@ title: Trabajando con herramientas gráficas
 subtitle: Gimp, Audacity o InkScape, entre otros.
 cover-img: /assets/img/graftool.png
 share-img: /assets/img/graftool.png
-tags: [reflexion, graficos, herramientas, editar]
+tags: [reflexion, graficos, herramientas, trabajo, equipo, soft, skills]
 ---
 
 En esta nueva semana hemos comenzado viendo las distintas **herramientas gráficas** para trabajar con elementos como imágenes vectoriales, logos, audios o vídeos. Personalmente estoy bastante *familiarizado* con este tipo de programas: suelo usar Photoshop de manera habitual y he trasteado con otros programas como *Illustrator* o *Adobe Premiere*. Después de tanto tiempo usándolos, me siento **muy cómodo** con ellos y creo que, aunque estos programas de código libre hacen una muy buena labor, no llegan a superar a estos programas de pago (es mi opinión). No obstante, nunca viene mal *aprender algo nuevo*.
@@ -46,6 +46,10 @@ Aún con todo esto, tengo mucha fe en el equipo que hemos formado ya que contamo
 
 ## SOFT SKILLS
 
-Hace un tiempo [llegué a este artículo](https://dev.to/manthanbhatt/top-5-soft-skill-for-software-developer-3a55) en donde enumeraba las *soft skills* más indicadas para un programador. Para mi, una de las más importantes sería la **empatía**, tal y como dice el artículo:
+Hace un tiempo [llegué a este artículo](https://dev.to/manthanbhatt/top-5-soft-skill-for-software-developer-3a55) en donde enumeraba las *soft skills* más indicadas para un programador. Para mí, una de las más importantes sería la **empatía**, tal y como dice el artículo:
 
 > *You will be able to adjust your behavior, to address their needs, and make sure that you are taking them into account.*
+
+Creo que, en este mundo, en donde parece que *solo interactuamos con máquinas* es fundamental ponerse en los zapatos de la otra persona, entender sus inquietudes, sus puntos fuertes y débiles y sus creencias. Otra habilidad sería la **comunicación**. En un sector en donde saber interpretar las necesidades del cliente es el pan de cada día, la comunicación facilita que los equipos se entiendan y que el producto entregado *sea acorde* a lo que quiere el cliente final.
+
+Aunque, si tengo que quedarme con una, yo apostaría por el **espíritu autodidacta** y la curiosidad. Creo que es una habilidad que las empresas valoran en gran medida, pues les ayuda a tener profesionales que son capaces de *buscarse la vida* y solucionar sus problemas (ser resolutivos).
