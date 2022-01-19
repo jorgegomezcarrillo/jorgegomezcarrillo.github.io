@@ -36,4 +36,6 @@ En cuanto a la tecnología, optamos por un blog en [Wordpress](https://wordpress
 
 ![Plugins](/assets/img/contentsp.JPG){: .mx-auto.d-block :}
 
-Tras todo esto, estamos 
+En cuanto a herramientas de diseño, tenemos pensado usar **Figma** para el prototipado, centrándonos en el desarrollo móvil como punto de partida. Aquí aplicaremos todo lo aprendido el clase, estableciendo *variables y paletas de colores* que concuerden con el tema del blog.
+
+Tras todo esto, estamos aun pendientes de ver *como le damos forma* a toda la idea. La verdad es que me resulta muy emocionante este trabajo, sobre todo el poder hacerlo con otros compañeros. No obstante, me hubiese gustado que se valorase más el hacerlo **mediante código** y usar Git/GitHub, ya que esto nos hubiera servido de práctica de cara al trabajo final del ciclo. Termino, pues, la semana con mucho ánimo y con ganas de seguir desarrollando el proyecto.
