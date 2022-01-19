@@ -38,4 +38,14 @@ En cuanto a la tecnología, optamos por un blog en [Wordpress](https://wordpress
 
 En cuanto a herramientas de diseño, tenemos pensado usar **Figma** para el prototipado, centrándonos en el desarrollo móvil como punto de partida. Aquí aplicaremos todo lo aprendido en clase, estableciendo *variables y paletas de colores* que concuerden con el tema del blog.
 
-Tras todo esto, estamos aún pendientes de ver *como le damos forma* a toda la idea. La verdad es que me resulta muy emocionante este trabajo, sobre todo el poder hacerlo con otros compañeros. No obstante, me hubiese gustado que se valorase más el hacerlo **mediante código** y usar Git/GitHub, ya que esto nos hubiera servido de práctica de cara al trabajo final del ciclo. Termino, pues, la semana con mucho ánimo y con ganas de seguir desarrollando el proyecto.
+Tras todo esto, estamos aún pendientes de ver *como le damos forma* a toda la idea. La verdad es que me resulta muy emocionante este trabajo, sobre todo el poder hacerlo con otros compañeros. No obstante, me hubiese gustado que se valorase más el hacerlo **mediante código** y usar Git/GitHub, ya que esto nos hubiera servido de práctica de cara al trabajo final del ciclo.
+
+Respecto al trabajo en equipo, como he dicho, **me parece fundamental** empezar cuanto antes a desarrollar aplicaciones en grupo, pero como he comentado, me parecería más enriquecedor hacerlo desde la premisa de lo que nos vamos a encontrar cuando salgamos al mercado: trabajando desde casa, con un entorno de control de versiones, git, despliegues y este tipo de cosas. Lo que más me preocupa en trabajos con varios compañeros es las diferentes personalidades de cada uno o la falta de implicación de otros. No es algo que ocurra en mi grupo actual, en donde *me entiendo perfectamente* con mis compañeros, pero en ocasiones creo que es innecesario tener que ir detrás de algunos componentes, exigiendo que entreguen su parte, cuando ya todos tenemos una edad más que respetable como para tener ese compromiso.
+
+Aún con todo esto, tengo mucha fe en el equipo que hemos formado ya que contamos, además, con compañeros que controlan mucho de diseño y otros de programación, quedando un equipo multidisciplinar, perfecto para este trabajo. Las **ventajas** sin duda son que, cuando el grupo trabaja unido, los resultados son de mayor calidad y el trabajo fluye en menor tiempo.
+
+## SOFT SKILLS
+
+Hace un tiempo [llegué a este artículo](https://dev.to/manthanbhatt/top-5-soft-skill-for-software-developer-3a55) en donde enumeraba las *soft skills* más indicadas para un programador. Para mi, una de las más importantes sería la **empatía**, tal y como dice el artículo:
+
+> *You will be able to adjust your behavior, to address their needs, and make sure that you are taking them into account.*
