@@ -19,7 +19,7 @@ La siguiente clase **fue de las más interesantes** del curso. Tuvimos la suerte
 
 Por otro lado, también hicimos un repaso a las diferentes empresas que se ofertan de cara a la realización de la **FCT**. La verdad es que resulta muy *excitante* saber que en dos meses vamos a poder desarrollar todo nuestro potencial y, en mi caso, dedicarme por fin a lo que de verdad me gusta.
 
-La última clase la dedicamos al **trabajo de equipo** que tenemos que desarrollar entre varios compañeros. En nuestro caso, el **EQUIPO A**, hemos decidido hacer una página dedicada a los *animales marinos*. En el *brainstorming* inicial se barajaron diferentes temas, como por ejemplo:
+La última clase la dedicamos al **trabajo de equipo** que tenemos que desarrollar entre varios compañeros. En nuestro caso, el **EQUIPO A**, hemos decidido hacer una página dedicada a los *animales marinos*. En el *brainstorming* inicial se barajaron diferentes temas, como, por ejemplo:
 
 - Blog de comida
 - Blog sobre el sushi
@@ -32,10 +32,10 @@ Finalmente decidimos hacerlo de animales marinos *en general*, pues pensamos que
 
 Desde el principio yo planteé la posibilidad de hacer una [única página](https://diccionarioweb.com/tabla-de-contenidos-indice-en-wordpress/) (al estilo de muchos blogs de SEO), pues lo veía más sencillo a la hora de crear contenido y visualizarlo. Después de consensuarlo un poco más, decidimos hacer *varias páginas* para que quedara más sencillo de cara al usuario.
 
-En cuanto a la tecnología, optamos por un blog en [Wordpress](https://wordpress.com/es/) (gratuito) como primera opción. Nos creamos una cuenta y realizamos un primer despliegue con unas plantillas gratuitas. La **gestión del dominio** fue muy fácil y se nos quedó una dirección URL muy amigable. El problema surgió cuando intentamos instalar **plugins**, ya que nos pedía actualizar a una versión **premium** de pago.
+En cuanto a la tecnología, optamos por un blog en [Wordpress](https://wordpress.com/es/) (gratuito) como primera opción. Nos creamos una cuenta y realizamos un primer despliegue con unas plantillas gratuitas. La **gestión del dominio** fue muy fácil y se nos quedó una dirección URL muy amigable. El problema surgió cuando intentamos instalar **plugins**, ya que nos pedía actualizar a una versión **Premium** de pago.
 
 ![Plugins](/assets/img/contentsp.JPG){: .mx-auto.d-block :}
 
-En cuanto a herramientas de diseño, tenemos pensado usar **Figma** para el prototipado, centrándonos en el desarrollo móvil como punto de partida. Aquí aplicaremos todo lo aprendido el clase, estableciendo *variables y paletas de colores* que concuerden con el tema del blog.
+En cuanto a herramientas de diseño, tenemos pensado usar **Figma** para el prototipado, centrándonos en el desarrollo móvil como punto de partida. Aquí aplicaremos todo lo aprendido en clase, estableciendo *variables y paletas de colores* que concuerden con el tema del blog.
 
-Tras todo esto, estamos aun pendientes de ver *como le damos forma* a toda la idea. La verdad es que me resulta muy emocionante este trabajo, sobre todo el poder hacerlo con otros compañeros. No obstante, me hubiese gustado que se valorase más el hacerlo **mediante código** y usar Git/GitHub, ya que esto nos hubiera servido de práctica de cara al trabajo final del ciclo. Termino, pues, la semana con mucho ánimo y con ganas de seguir desarrollando el proyecto.
+Tras todo esto, estamos aún pendientes de ver *como le damos forma* a toda la idea. La verdad es que me resulta muy emocionante este trabajo, sobre todo el poder hacerlo con otros compañeros. No obstante, me hubiese gustado que se valorase más el hacerlo **mediante código** y usar Git/GitHub, ya que esto nos hubiera servido de práctica de cara al trabajo final del ciclo. Termino, pues, la semana con mucho ánimo y con ganas de seguir desarrollando el proyecto.
