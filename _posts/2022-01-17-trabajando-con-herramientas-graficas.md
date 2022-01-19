@@ -18,3 +18,14 @@ Lo primero que realizamos fue un *logotipo muy básico* de Nike. Susana nos prop
 La siguiente clase **fue de las más interesantes** del curso. Tuvimos la suerte tener una charla por parte de la *orientadora*, donde nos explicó las diferentes salidas que tenemos con nuestro ciclo. En su [página web](https://orientaplanes.blogspot.com/) tiene información al respecto, y la mayor parte del tiempo la dedicamos a la posibilidad de hacer la **carrera de informática**. Personalmente, es algo que no descarto, aunque por el momento prefiero ganar algo de experiencia y decidir a qué rama del desarrollo (frontend o backend) me quiero dedicar. No obstante, siempre he tenido presente opciones como la UNED o la UCAM ya que, en caso de ponerme a ello, lo haría **compaginando estudios y trabajo**, sin prisa, pero sin pausa.
 
 Por otro lado, también hicimos un repaso a las diferentes empresas que se ofertan de cara a la realización de la **FCT**. La verdad es que resulta muy *excitante* saber que en dos meses vamos a poder desarrollar todo nuestro potencial y, en mi caso, dedicarme por fin a lo que de verdad me gusta.
+
+La última clase la dedicamos al **trabajo de equipo** que tenemos que desarrollar entre varios compañeros. En nuestro caso, el **EQUIPO A**, hemos decidido hacer una página dedicada a los *animales marinos*. En el *brainstorming* inicial se barajaron diferentes temas, como por ejemplo:
+
+- Blog de comida
+- Blog sobre el sushi
+- Blog sobre tiburones
+- Blog sobre ballenas
+
+Finalmente decidimos hacerlo de animales marinos *en general*, pues pensamos que así cada uno podría escribir sobre el que más le gustase. Todavía nos falta por darle forma al proyecto y decidir, entre otras cosas, la plataforma donde vamos a **desplegarlo**, la tecnología o la propia estructura del blog. Lo que si tuvimos claro desde el principio es la **forma de organización**. En nuestro caso hemos optado por Trello (imagen inferior), en donde podemos asignar tareas y visualizar de una manera más cómoda *los apartados a realizar en el blog*. Esto también lo combinaremos con el *chat* de WhatsApp o Discord. 
+
+![Panel de Trello](/assets/img/trello.JPG){: .mx-auto.d-block :}
