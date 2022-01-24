@@ -13,6 +13,6 @@ Como propuesta de lo anterior, en la imagen inferior puede verse una propuesta d
 
 ![Logo Pizza](/assets/img/logopizza.JPG){: .mx-auto.d-block :}
 
-Aunque lo he nombrado muy por encima, durante el fin de semana previo a este post los integrantes del grupo **quedamos** para realizar una puesta en común y desplegar el proyecto. Una prueba puede verse en la imagen inferior (aún con la temática antigua). 
+Aunque lo he nombrado muy por encima, durante el fin de semana previo a este post los integrantes del grupo **quedamos** para realizar una puesta en común y desplegar el proyecto. Una prueba puede verse en la imagen inferior (aún con la temática antigua). Hemos optado por desplegar el proyecto en **GitHub Pages**, creando un repositorio público y común, en donde todos podemos realizar cambios y hacer un seguimiento de los mismos. Como *tecnologías*, estamos usando **Boostrap 5**, ya que nos permite crear un sitio web de una manera muy rápida. En la [siguiente URL](https://jorgegomezcarrillo.github.io/proyecto-design/) puede verse el proyecto.
 
 ![Home Animales Marinos](/assets/img/indexanimales.JPG){: .mx-auto.d-block :}
