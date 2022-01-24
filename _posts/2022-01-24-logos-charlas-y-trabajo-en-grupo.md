@@ -8,3 +8,5 @@ tags: [reflexion, trabajo, equipo, soft, logos, charla]
 ---
 
 ![Logo Pizza](/assets/img/logopizza.JPG){: .mx-auto.d-block :}
+
+![Home Animales Marinos](/assets/img/indexanimales.JPG){: .mx-auto.d-block :}
