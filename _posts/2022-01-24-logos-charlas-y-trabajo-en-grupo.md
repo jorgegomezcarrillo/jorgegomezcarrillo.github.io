@@ -4,7 +4,7 @@ title: Logos, charlas y trabajo en grupo
 subtitle: Definiendo nuestra temática
 cover-img: /assets/img/logosall.jpg
 share-img: /assets/img/logosall.jpg
-tags: [reflexion, trabajo, equipo, soft, logos, charla]
+tags: [reflexion, trabajo, equipo, logos, charla]
 ---
 
 Esta semana la hemos comenzado definiendo el **concepto de logo** y sus derivados. Personalmente nunca había indagado en el asunto, pero [echándole un ojo a algunos recursos](https://www.planetapixel.com/clases-o-tipos-de-logotipos/) veo que da para hablar largo y tendido. Coincido con la idea de que un logo debe ser *reconocible desde la distancia*, al igual que debe ser fácil de situar en diferentes situaciones. Es por eso que me gustan los logos sin fondo (como el de *Nike*) o el Google, pues será más fácil colocarlo en diferentes fondos.
