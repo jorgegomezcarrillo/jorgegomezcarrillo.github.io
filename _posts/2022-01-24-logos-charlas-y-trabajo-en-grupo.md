@@ -29,4 +29,8 @@ Aunque lo he nombrado muy por encima, durante el fin de semana previo a este pos
 
 ## Tipos de formatos
 
-Como clase introductoria a este tema, Susana nos habló sobre los diferentes **tipos de formatos** en mapas de bits. [Encontré este artículo de la MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types) donde se explica muy detalladamente este asunto. Personalmente ya conocía este mundo, ya que por mi cuenta he trasteado mucho con Photoshop ya sea durante la carrera o como curiosidad personal.
+Como clase introductoria a este tema, Susana nos habló sobre los diferentes **tipos de formatos** en mapas de bits. [Encontré este artículo de la MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types) donde se explica muy detalladamente este asunto. Personalmente ya conocía este mundo, ya que por mi cuenta he trasteado mucho con Photoshop ya sea durante la carrera o como curiosidad personal. Para trabajo de uso personal (donde no necesito una gran calidad en la imagen), siempre uso la **exportación para web**. No obstante, cuando tenía una cámara reflex si que manejaba archivos en formato *raw* y programas como **Lightroom** para su edición.
+
+![Tipos de formatos](/assets/img/typesformat.jpg){: .mx-auto.d-block :}
+
+![Comparación formatos](/assets/img/comparacionf.JPG){: .mx-auto.d-block :}
