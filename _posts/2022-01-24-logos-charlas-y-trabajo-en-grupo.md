@@ -9,7 +9,7 @@ tags: [reflexion, trabajo, equipo, logos, charla]
 
 Esta semana la hemos comenzado definiendo el **concepto de logo** y sus derivados. Personalmente nunca había indagado en el asunto, pero [echándole un ojo a algunos recursos](https://www.planetapixel.com/clases-o-tipos-de-logotipos/) veo que da para hablar largo y tendido. Coincido con la idea de que un logo debe ser *reconocible desde la distancia*, al igual que debe ser fácil de situar en diferentes situaciones. Es por eso que me gustan los logos sin fondo (como el de *Nike*) o el Google, pues será más fácil colocarlo en diferentes fondos.
 
-Me ha resultado muy útil [esta página](https://www.significados.com/logos/) en donde se explica la **etimología** de la palabra *Logos*. En [este otro recurso](https://99designs.es/blog/tips/types-of-logos/) se detallan los diferentes tipos de logos y cuándo usar cada uno de ellos. Como resumen, se podrían clasificar en:
+Me ha resultado muy útil [esta página](https://www.significados.com/logos/) en donde se explica la **etimología** de la palabra *Logos*. En [este otro recurso](https://99designs.es/blog/tips/types-of-logos/) se detallan los diferentes tipos de logos y *cuándo usar* cada uno de ellos. Como resumen, se podrían clasificar en:
 
 1) Monogramas (letras)
 2) Marcas de letras (logotipos)
@@ -26,3 +26,7 @@ Como propuesta de lo anterior, en la imagen inferior puede verse una propuesta d
 Aunque lo he nombrado muy por encima, durante el fin de semana previo a este post los integrantes del grupo **quedamos** para realizar una puesta en común y desplegar el proyecto. Una prueba puede verse en la imagen inferior (aún con la temática antigua). Hemos optado por desplegar el proyecto en **GitHub Pages**, creando un repositorio público y común, en donde todos podemos realizar cambios y hacer un seguimiento de los mismos. Como *tecnologías*, estamos usando **Boostrap 5**, ya que nos permite crear un sitio web de una manera muy rápida. En la [siguiente URL](https://jorgegomezcarrillo.github.io/proyecto-design/) puede verse el proyecto.
 
 ![Home Animales Marinos](/assets/img/indexanimales.JPG){: .mx-auto.d-block :}
+
+## Tipos de formatos
+
+Como clase introductoria a este tema, Susana nos habló sobre los diferentes **tipos de formatos** en mapas de bits. [Encontré este artículo de la MDN](https://developer.mozilla.org/en-US/docs/Web/Media/Formats/Image_types) donde se explica muy detalladamente este asunto. Personalmente ya conocía este mundo, ya que por mi cuenta he trasteado mucho con Photoshop ya sea durante la carrera o como curiosidad personal.
