@@ -36,3 +36,7 @@ Como clase introductoria a este tema, Susana nos habló sobre los diferentes **t
 Para finalizar este tema, realizamos una **práctica sobre la compresión** en diferentes formatos (*SVG, PNG y JPG*). En mi caso usé el logo de la imagen superior (el de la pizza) y lo guardé en diferentes formatos con diferentes calidades de *impresión*. En la imagen inferior se puede ver el tamaño de cada uno de estos archivos. Queda claro que la imagen que aporta **mayor calidad es el SVG**, y tendremos que decidir si queremos **transparencia** (PNG) o no (JPG) a la hora de elegir uno de estos dos formatos.
 
 ![Comparación formatos](/assets/img/comparacionf.JPG){: .mx-auto.d-block :}
+
+![Globos Gimp](/assets/img/globosgimp.JPG){: .mx-auto.d-block :}
+
+![Globos](/assets/img/globos.jpg){: .mx-auto.d-block :}
