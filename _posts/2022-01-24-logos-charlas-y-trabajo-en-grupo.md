@@ -37,6 +37,6 @@ Para finalizar este tema, realizamos una **práctica sobre la compresión** en d
 
 ![Comparación formatos](/assets/img/comparacionf.JPG){: .mx-auto.d-block :}
 
-![Globos Gimp](/assets/img/globosgimp.JPG){: .mx-auto.d-block :}
+En cuanto a Gimp, tratamos también de realizar algunos retoques **sobre una image**: quitar el fondo, aplicar filtros, capas y escalado. Personalmente, como he comentado en los párrafos superiores, todas estas tareas me resultan muy rutinarias (estoy muy acostumbrado a usar *Photoshop*) y no me suponen un gran problema. Si que es verdad que me resulta **muy complejo** pasar de un programa a otro y no saber dónde están las herramientas que estoy acostumbrado a usar. El resultado se puede ver en la imagen inferior, donde he usado pinceles, capas y grupos para *componer la imagen*.
 
-![Globos](/assets/img/globos.jpg){: .mx-auto.d-block :}
+![Globos Gimp](/assets/img/globosgimp.JPG){: .mx-auto.d-block :}
