@@ -41,6 +41,8 @@ En cuanto a Gimp, tratamos también de realizar algunos retoques **sobre una ima
 
 ![Globos Gimp](/assets/img/globosgimp.JPG){: .mx-auto.d-block :}
 
+## Charla Neoris
+
 Lo más destacado de la semana fue la charla **por parte de la empresa Neoris**. Me resultó muy interesante, aunque, como comenté en clase, me hubiera gustado que fuera menos técnica y más centrada en aspectos como horarios, salario, formación, expectativas, etc. No obstante, me pareció muy útil conocer todas las herramientas y tecnologías que usan, aunque creo que *se profundizó demasiado* (algunos lenguajes ni me sonaban).
 
 No conocía esta empresa, pero a partir de ahora la tendré *muy presente* para un futuro. Me gustó mucho la idea del **full online**, ya que creo que es el futuro para nuestro sector. Sí que es verdad que puede resultar complicado al principio (siendo juniors) pero, a la postre, todos estamos día a día comunicándonos con gente a través de WhatsApp o Discord, y *todo es acostumbrarse*. En definitiva, otra semana muy interesante, sobre todo porque ya se va acercando el final del ciclo y las tan ansiadas **prácticas**.
