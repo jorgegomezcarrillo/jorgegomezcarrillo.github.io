@@ -24,3 +24,5 @@ En el otro lado de la moneda tenemos Symfony, un **framework que me está encant
 ![Código en Symfony](/assets/img/routesf.PNG){: .mx-auto.d-block :}
 
 En la imagen superior se puede ver el ejemplo de un **método dentro de un controlador** en Symfony. Como se pude ver, la funcionalidad queda encapsulada dentro de un bloque, resultando mucho más sencillo saber dónde acudir cuando queremos tocar algo. La forma de enseñar del profesor de esta asignatura favorece que **revise mucho la documentación y mire gran cantidad de tutoriales** (a parte de porque me gusta), haciendo que aprenda más rápido y que controle temas que podrían quedar fuera de los tratados en clase.
+
+En la asignatura de Diseño de Interfaces nos tocó realizar un ejercicio con Audacity, un *programa gratuito de edición de audio*. Por mi parte ya conocía este software, aunque hace unos meses lo compró una empresa Rusa y ahora parece ser que envía datos personales. Descubrí que existe un **fork** llamado [Dark Audacity](http://www.darkaudacity.com/) que realiza las mismas funciones, sin filtrar datos.
