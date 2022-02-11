@@ -34,3 +34,5 @@ En la asignatura de Diseño de Interfaces nos tocó realizar un ejercicio con **
 ![Audacity](/assets/img/filtroaud.PNG){: .mx-auto.d-block :}
 
 Por último, en *Lenguaje de marcas* hemos estado viendo XPath y XLS. La verdad es que me resulta una manera un tanto *complicada* de tratar datos que recibimos de la web, aunque entiendo que es necesario saberlo pues **muchos organismos públicos** los usan actualmente. Me hubiera gustado que se tratara también el formato JSON (el que usamos en Symfony, Angular o JavaScript) pero, en caso de no verlo, lo estudiaré por mi cuenta.
+
+Como se puede ver (y lo confirmo) **le dedico mucho tiempo a estudiar e investigar por mi cuenta fuera de las clases**; a posteriori eso se nota pues siento como voy mejorando en todos los aspectos y soy capaz de programar más rápido o saber cómo funcionan las cosas tras bambalinas. Lo dejamos hoy aquí, con *muchas ganas* de empezar la siguiente semana (¡y las prácticas!).
