@@ -21,3 +21,4 @@ Por otro lado, al usar tanto componente padre e hijo, me resulta muy complicado 
 
 En el otro lado de la moneda tenemos Symfony, un **framework que me está encantando** y qué está haciendo que esté interesándome más el **backend que el frontend**. Últimamente prefiero pelearme con configuraciones de servidores, serializadores o rutas más que con los estilos de una página web. Entiendo que el *lado trasero* de la web puede resultar más complicado pues es necesario aprender de despliegue, servidores, docker o patrones de diseño, pero me resulta muy gratificante cuando salen las cosas.
 
+![Código en Symfony](/assets/img/routesf.PNG){: .mx-auto.d-block :}
