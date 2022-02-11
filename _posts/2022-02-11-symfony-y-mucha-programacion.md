@@ -22,3 +22,5 @@ Por otro lado, al usar tanto componente padre e hijo, me resulta muy complicado 
 En el otro lado de la moneda tenemos Symfony, un **framework que me está encantando** y qué está haciendo que esté interesándome más el **backend que el frontend**. Últimamente prefiero pelearme con configuraciones de servidores, serializadores o rutas más que con los estilos de una página web. Entiendo que el *lado trasero* de la web puede resultar más complicado pues es necesario aprender de despliegue, servidores, docker o patrones de diseño, pero me resulta muy gratificante cuando salen las cosas.
 
 ![Código en Symfony](/assets/img/routesf.PNG){: .mx-auto.d-block :}
+
+En la imagen superior se puede ver el ejemplo de un **método dentro de un controlador** en Symfony. Como se pude ver, la funcionalidad queda encapsulada dentro de un bloque, resultando mucho más sencillo saber dónde acudir cuando queremos tocar algo. La forma de enseñar del profesor de esta asignatura favorece que **revise mucho la documentación y mire gran cantidad de tutoriales** (a parte de porque me gusta), haciendo que aprenda más rápido y que controle temas que podrían quedar fuera de los tratados en clase.
