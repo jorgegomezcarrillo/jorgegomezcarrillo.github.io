@@ -17,4 +17,3 @@ Finalmente nos introdujeron los conceptos básicos de **UX/UI** así como el té
 
 Fue una clase muy interesante donde pude conocer también cómo se nos iba a evaluar durante todo el año así como el sistema que se sigue en el centro para la asignación de las **FCT**.
 
-ssss
