@@ -16,3 +16,5 @@ Para comprender mejor *cómo percibimos cada uno el arte*, Susana nos proyectó 
 Finalmente nos introdujeron los conceptos básicos de **UX/UI** así como el término de **Design Thinking**. Pudimos ver algo de la *Escuela Bauhaus*, un término que ya conocía por mis estudios anteriores (Ingeniería de edificación), aunque durante la carrera no profundizamos tanto en temas de diseño, ya que estaba más enfocado al tema técnico.
 
 Fue una clase muy interesante donde pude conocer también cómo se nos iba a evaluar durante todo el año así como el sistema que se sigue en el centro para la asignación de las **FCT**.
+
+ssss
