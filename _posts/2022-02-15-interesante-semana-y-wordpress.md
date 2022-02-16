@@ -28,3 +28,5 @@ Tras todo esto se generó un **pequeño debate** tras terminar la intervención 
 Mi anterior empresa cumple todos los requisitos de una organización donde lo que primaba era *echar horas*, estar presencialmente en la oficina y en donde se veía con malos ojos el marcharte a tu hora. Antiguos compañeros con los que mantengo el contacto me han comentado que han vuelto a la *presencialidad* o que no se les permite estar *totalmente online* a pesar de que podrían hacerlo. Por desgracia, creo que esto es lo que ocurre en la **gran mayoría de las empresas** y es en parte (como dice Pedro) debido a nuestra picaresca española.
 
 Aunque he viajado al extranjero no he tenido la posibilidad de trabajar fuera, pero dudo que otras culturas sean como la nuestra. Es por esto por lo que estoy **en parte de acuerdo** con Pedro, aunque creo que todo radica en una cuestión de **confianza** empleado - trabajador. Tal y como dijo Raúl, hay una diferencia entre **jerarquía y horizontalidad**, donde todos los trabajadores son escuchados y *se respetan sus decisiones*.
+
+Por mi parte, es todo, *contando los días* para comnenzar las prácticas!
