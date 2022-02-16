@@ -29,4 +29,4 @@ Mi anterior empresa cumple todos los requisitos de una organización donde lo qu
 
 Aunque he viajado al extranjero no he tenido la posibilidad de trabajar fuera, pero dudo que otras culturas sean como la nuestra. Es por esto por lo que estoy **en parte de acuerdo** con Pedro, aunque creo que todo radica en una cuestión de **confianza** empleado - trabajador. Tal y como dijo Raúl, hay una diferencia entre **jerarquía y horizontalidad**, donde todos los trabajadores son escuchados y *se respetan sus decisiones*.
 
-Por mi parte, es todo, *contando los días* para comnenzar las prácticas!
+Por mi parte, es todo, *contando los días* para comenzar las prácticas!
